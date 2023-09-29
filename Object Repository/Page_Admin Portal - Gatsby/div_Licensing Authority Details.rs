@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Licensing Authority Details</name>
+   <tag></tag>
+   <elementGuidId>625de9bf-ace6-4500-981e-13f63094dcca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content-wrapper']/app-administrators-add-operator/div/div[2]/div/form/mat-form-field[3]/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c148-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1193c329-b4df-43e6-9aab-fdf4f020f251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c148-3</value>
+      <webElementGuid>341cf66c-b9a0-42c3-bc13-53de8bb21f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Licensing Authority Details</value>
+      <webElementGuid>b1e0101c-ba7b-4aed-8f46-8b451a888062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-administrators-add-operator[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-3&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;px-md-5 pb-md-4 px-3 pt-5 pb-3 control-centre-form&quot;]/form[@class=&quot;alternate-theme ng-invalid ng-star-inserted ng-dirty ng-touched&quot;]/mat-form-field[@class=&quot;mat-form-field mb-3 w-100 ng-tns-c148-3 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c148-3&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c148-3&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c148-3&quot;]</value>
+      <webElementGuid>642104d6-0318-48d2-9cf5-609d49472f60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-administrators-add-operator/div/div[2]/div/form/mat-form-field[3]/div/div/div[3]</value>
+      <webElementGuid>fc2a55c1-0826-4e34-ac4f-22fe066c9250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator License Number'])[1]/following::div[14]</value>
+      <webElementGuid>f93b41ef-5527-465a-93c4-1240343da1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Licensed Operator Name'])[1]/following::div[28]</value>
+      <webElementGuid>b973ba33-984b-4196-98c7-e133e33172d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Licensed Operator Tel Number'])[1]/preceding::div[12]</value>
+      <webElementGuid>b0db94dc-cb3f-4cf5-8619-5c99b32bb588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[3]/div/div/div[3]</value>
+      <webElementGuid>5210280b-4144-4f60-ba8f-d0dd7cda3fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Licensing Authority Details' or . = 'Licensing Authority Details')]</value>
+      <webElementGuid>cde05fb0-0e1c-4bee-8497-4d7f103e1b79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

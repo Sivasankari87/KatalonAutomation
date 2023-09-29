@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>ead260a5-3a31-42cd-9f5b-85daa0d8b3da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div/div[2]/app-top-nav-bar/nav/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fa87ecd3-c06b-4f92-8114-e1931576f874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>bb54204a-11ec-4224-9e18-8886f13c8d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;d-flex&quot;]/div[@class=&quot;d-flex flex-column col-12 px-0 col-md-9 pr-sm-4&quot;]/app-top-nav-bar[1]/nav[@class=&quot;navbar navbar-expand mt-4 mb-3 p-0 d-md-block d-none&quot;]/div[@class=&quot;container-fluid row m-0&quot;]/div[@class=&quot;collapse navbar-collapse navbar-button-wrapper&quot;]/div[@class=&quot;d-flex justify-content-end align-items-center&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;sign-in d-flex align-items-center pointer&quot;]/span[1]</value>
+      <webElementGuid>9d42f434-e6c4-4328-b943-e8891cd31cb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div/div[2]/app-top-nav-bar/nav/div/div/div[2]/div/div/span</value>
+      <webElementGuid>472db582-783b-4568-9174-e32622457e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live'])[1]/following::span[1]</value>
+      <webElementGuid>d4d55c1c-bd90-460f-bfd9-fa02be8c290e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drivers'])[2]/following::span[1]</value>
+      <webElementGuid>57fc1397-f907-43a3-8e36-a75f831a6189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::span[2]</value>
+      <webElementGuid>37e14642-f976-4ffd-a6ad-dff82bcbbfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::span[2]</value>
+      <webElementGuid>9a940eb3-0460-4054-8c92-ec2c82829135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>7ef61904-b47b-4183-be7c-f5c4a0f58f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>88b8034a-9c3f-4e3c-82c1-1d25a976bd98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

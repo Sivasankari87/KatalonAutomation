@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add</name>
+   <tag></tag>
+   <elementGuidId>e6b55cbd-0526-4eaa-a12a-0955dc2aa66a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-button-primary-controlled.primary.me-4 > button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c5d50666-b244-4ea5-b6e6-0954d3ba3f13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aa11d23c-ee97-46bf-983f-125e3a49ad3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>f4050159-9836-432d-a17f-9f18f41c64fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add
+</value>
+      <webElementGuid>739041ee-8465-45c3-b6cf-4aeea011cc24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-administrators-add-operator[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-3&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;px-md-5 pb-md-4 px-3 pt-5 pb-3 control-centre-form&quot;]/form[@class=&quot;alternate-theme ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;mt-5 pt-3&quot;]/app-button-primary-controlled[@class=&quot;primary me-4&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>5484ec41-e79f-44bd-9d14-d155c7db1373</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>7da915e0-ec58-4985-ac2a-d378c5643f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-administrators-add-operator/div/div[2]/div/form/div/app-button-primary-controlled/button</value>
+      <webElementGuid>c9beb3ef-a19c-422c-90b2-44a8fd24338e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YeCis-17d3e663-8578-42b3-a9d0-1c3a77f8fd8e.pdf'])[1]/following::button[1]</value>
+      <webElementGuid>ed8e200e-6640-4d8b-8b2a-469cab79727e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose file'])[1]/following::button[1]</value>
+      <webElementGuid>ec0191b5-f9c7-407d-b6e1-77fe3015e803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>f9b5c7e4-cc47-42e3-a9b3-8dcc7ace2914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/preceding::button[2]</value>
+      <webElementGuid>c2494724-5f46-42bb-bf22-c316948fb4fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-controlled/button</value>
+      <webElementGuid>eb6eeabe-cc3c-44f9-ae97-bd2a42791a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Add
+' or . = ' Add
+')]</value>
+      <webElementGuid>83e73596-c4cc-46f1-b3b8-7d1997264296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>5f5eb902-9360-456d-aeb3-3fe9324a4d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/ng-component/div/div[2]/app-button-primary/button</value>
+      <webElementGuid>f1b1d218-9254-46c8-8070-fc3db933bdbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator Driver Number'])[1]/following::button[1]</value>
+      <webElementGuid>ca17d327-274f-4402-9881-2169d1a2a513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local Licensing Authority'])[1]/following::button[1]</value>
+      <webElementGuid>1ed4b508-1d89-4166-86ad-e0df04096597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>a1072880-8349-4c2f-ad69-3e4671a6c7c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/app-button-primary/button</value>
+      <webElementGuid>3a187e09-1498-4250-8fa6-4faf32519f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Add ' or . = ' Add ')]</value>
+      <webElementGuid>759b4179-fef2-467e-99e4-8a71f30604e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

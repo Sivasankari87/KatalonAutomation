@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No</name>
+   <tag></tag>
+   <elementGuidId>f596a1ca-5d41-420f-ba6c-c119b4d91fca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b95458eb-e6e1-4594-8c0c-79fa3bd8d318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-4 mt-4 btn btn-primary ng-star-inserted</value>
+      <webElementGuid>4c7bb04e-3184-4fdd-8ef4-8e5e097bb504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No</value>
+      <webElementGuid>a91d1302-2c73-4d3f-8b02-8e783c1dbe8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;g-sidenav-show bg-gray-100 modal-open&quot;]/ngb-modal-window[@class=&quot;custom-dialog d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/ng-component[1]/div[@class=&quot;dialog&quot;]/div[@class=&quot;dialog-buttons ng-star-inserted&quot;]/button[@class=&quot;mx-4 mt-4 btn btn-primary ng-star-inserted&quot;]</value>
+      <webElementGuid>adf72cfb-6702-4e12-9aee-6c7b14e75c84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::button[1]</value>
+      <webElementGuid>019ab05d-9ee0-4f6a-a180-fb2c97f1f433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address not found'])[1]/following::button[2]</value>
+      <webElementGuid>6217214f-1067-4539-a0fe-0eb1634d8d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No']/parent::*</value>
+      <webElementGuid>7d027303-d312-4d69-9eea-57c01f974128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>6c76aa23-e5b0-4a04-a770-68c029669752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'No' or . = 'No')]</value>
+      <webElementGuid>51300364-f7d4-46c7-b83d-5b35d40121de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

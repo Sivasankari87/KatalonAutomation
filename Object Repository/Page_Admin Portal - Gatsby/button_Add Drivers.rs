@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Drivers</name>
+   <tag></tag>
+   <elementGuidId>71426f69-ef42-4a12-85b3-cfab91372182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='actionDropdown'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-inline-block.button-action.pe-0.dropdown > #actionDropdown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f3fd8da0-02d8-4067-9667-f0788647b894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionDropdown</value>
+      <webElementGuid>cd351eeb-0b9a-44df-b1f7-4d503880d0ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle btn btn-outline-primary</value>
+      <webElementGuid>abafbf7c-9f76-4566-ad16-4f3e238dd621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b165dc41-8d5d-49da-b2ba-2402ca140207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Drivers</value>
+      <webElementGuid>1981a03f-0153-4404-9d25-bb46208e86ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-administrators-driver[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;driver-bg&quot;]/div[@class=&quot;px-4 pt-3 d-flex justify-content-end&quot;]/app-administrators-driver-add-driver-dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-inline-block button-action pe-0 dropdown&quot;]/button[@id=&quot;actionDropdown&quot;]</value>
+      <webElementGuid>13877d93-2cd6-4544-a0ee-4980cecfba00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='actionDropdown'])[2]</value>
+      <webElementGuid>3e7b0f04-07aa-4054-aa79-6b3afcc653f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-administrators-driver/div[2]/div[2]/app-administrators-driver-add-driver-dropdown/div/button</value>
+      <webElementGuid>ae63075f-a2f1-45e7-ab58-da15727e60c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yikes'])[1]/following::button[3]</value>
+      <webElementGuid>2979a346-2c5f-490d-beaf-9c97895b3293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yellow cabs'])[1]/following::button[4]</value>
+      <webElementGuid>08c476d5-a206-4267-8a4e-6ff45a9cc11b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple'])[1]/preceding::button[1]</value>
+      <webElementGuid>e8e1b1d0-08dc-478b-a65d-39631a4ab2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single'])[1]/preceding::button[2]</value>
+      <webElementGuid>e3982af7-cef5-489b-b36f-6abebd3ab4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Drivers']/parent::*</value>
+      <webElementGuid>149e1165-aff6-43a9-8e92-438d2f27cbbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-administrators-driver-add-driver-dropdown/div/button</value>
+      <webElementGuid>c5b7f492-9bab-4a44-b0df-81bb01886711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'actionDropdown' and (text() = 'Add Drivers' or . = 'Add Drivers')]</value>
+      <webElementGuid>bad9bd80-dbee-4e70-bcf3-2a6c7bc3bede</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

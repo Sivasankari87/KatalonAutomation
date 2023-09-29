@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_The Indigo Website</name>
+   <tag></tag>
+   <elementGuidId>fcc1d020-e7bf-4717-a891-d295ca4f8680</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-103']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-103 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>109e13ec-b654-473c-8115-b757d89e9307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>c52f9685-e658-49fa-b1c3-7d7d6153dec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> The Indigo Website </value>
+      <webElementGuid>cbdb5fb5-66e5-45c3-8e3d-37629e959db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-103&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>e1419b37-bf55-4e03-b6e2-ddee7151894d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-103']/span</value>
+      <webElementGuid>3f99091a-0e47-4cf5-9fd0-4f1b97d65de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST Personal Information for Third Party'])[2]/following::span[1]</value>
+      <webElementGuid>60d06a39-63c4-4fd1-854d-deba2978ab01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST Personal Information for Third Party'])[1]/following::span[2]</value>
+      <webElementGuid>e46a64bf-8ada-47d9-af3d-7168a5093578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[7]/span</value>
+      <webElementGuid>3a8bd08e-7b66-431f-ab63-50725c5abb79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' The Indigo Website ' or . = ' The Indigo Website ')]</value>
+      <webElementGuid>cc5500cf-02ae-4113-9a88-52de818fef93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Take a Selfie</name>
+   <tag></tag>
+   <elementGuidId>f2b05348-c3b9-45ec-8299-69bd152d49b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bed29a3b-8a0f-44b0-ac4f-62b1c587043c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>585dc0b4-d765-4fba-9fe7-ab0e9b49a0c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>b3b93a29-de72-4be3-a7a2-971cadf059bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Take a Selfie
+</value>
+      <webElementGuid>27e6c1ad-583d-4c27-a214-35dfcb238767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-driver-invite-selfie-info[@class=&quot;ng-star-inserted&quot;]/app-driver-invite-wrapper[1]/div[@class=&quot;background&quot;]/div[@class=&quot;box d-flex flex-column&quot;]/div[@class=&quot;box-content d-flex flex-column align-items-center flex-grow-1 flex-shrink-1&quot;]/div[@class=&quot;button-section px-3&quot;]/div[@class=&quot;list-item mb-5&quot;]/app-button-primary[@class=&quot;primary wide d-block mt-3&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>776e7dcf-94aa-4bb8-ace7-f9a8508f9bff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>1c3372e4-3323-4553-8a48-92c5f5181f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-driver-invite-selfie-info/app-driver-invite-wrapper/div/div/div[2]/div[3]/div/app-button-primary/button</value>
+      <webElementGuid>a85fc06b-8605-469d-a465-80633cd45d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image focused and not blurry'])[1]/following::button[1]</value>
+      <webElementGuid>61f84207-be8b-4409-ae1a-8f8a930c8174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep your face in the frame'])[1]/following::button[1]</value>
+      <webElementGuid>452ed43f-7d2a-4bfc-bd4c-8a9daa186978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>2feae1f2-d7d9-4282-bfd6-5782a971723a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Take a Selfie
+' or . = ' Take a Selfie
+')]</value>
+      <webElementGuid>9ac09f86-6bbb-4945-a1f8-f27ef0e04d37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

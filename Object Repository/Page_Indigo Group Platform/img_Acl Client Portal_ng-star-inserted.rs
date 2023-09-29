@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Acl Client Portal_ng-star-inserted</name>
+   <tag></tag>
+   <elementGuidId>4554925d-88ab-41b5-8450-40a2b7c276b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='homepage_icon_70']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#homepage_icon_70 > img.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f491c792-92e3-4fff-9227-91a77cb6867f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/hub/navigation/services/supply-chain.svg</value>
+      <webElementGuid>117e460e-8efa-4f04-8d87-8afa2900d9b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>9d2447e1-56af-4816-ae12-3b6f9a5c6826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;content-wrapper body-content&quot;]/app-homepage-service-list[@class=&quot;homepage-service&quot;]/div[@class=&quot;service-container&quot;]/div[@class=&quot;service-flex&quot;]/div[@class=&quot;section-container&quot;]/div[1]/div[@id=&quot;homepage-services&quot;]/div[@class=&quot;apps-container enabled&quot;]/div[@id=&quot;homepage_icon_70&quot;]/img[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>7f885d4a-0f75-47f9-b2e2-00f5819f7c86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='homepage_icon_70']/img</value>
+      <webElementGuid>1f14859c-c420-46f3-8e1b-d932aef9ec28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/img</value>
+      <webElementGuid>116615f0-80d0-4086-b85f-39f86a16c0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/hub/navigation/services/supply-chain.svg']</value>
+      <webElementGuid>2744e26a-fb8c-4377-ba52-876b67f5fab5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

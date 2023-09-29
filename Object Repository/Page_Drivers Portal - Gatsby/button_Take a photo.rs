@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Take a photo</name>
+   <tag></tag>
+   <elementGuidId>30269b05-84b1-4853-8dd0-e9dac42eb7fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9d0858ee-7b55-4f9a-a122-467f51a595fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b54f7c87-153b-4675-b17e-add454cd16b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>36b75c8f-c718-4ccb-be8b-5a1aa0b5f3f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Take a photo
+</value>
+      <webElementGuid>180369cb-0b0e-483c-8a8f-7cc808e363d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-driver-invite-selfie[@class=&quot;ng-star-inserted&quot;]/app-driver-invite-wrapper[1]/div[@class=&quot;background&quot;]/div[@class=&quot;box d-flex flex-column&quot;]/div[@class=&quot;box-content d-flex flex-column align-items-center flex-grow-1 flex-shrink-1&quot;]/div[@class=&quot;content-wrapper d-flex justify-content-around flex-column align-items-center w-100&quot;]/div[1]/div[@class=&quot;list-item my-3 mx-4&quot;]/app-camera[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[1]/app-button-primary[@class=&quot;primary wide d-block mt-3 ng-star-inserted&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>35664e58-57f6-470b-955d-3aa69ce8f23d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>e64f4420-05db-4393-9239-529d93178707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-driver-invite-selfie/app-driver-invite-wrapper/div/div/div[2]/div[2]/div/div/app-camera/div/div/app-button-primary/button</value>
+      <webElementGuid>aff00724-7fee-4e47-bd91-99d5964812c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your photo'])[1]/following::button[1]</value>
+      <webElementGuid>4cf8ce7b-0dd6-4647-8c95-f51fc9168de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>b5634b69-8f84-4ea8-b06b-d53391b89f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Take a photo']/parent::*</value>
+      <webElementGuid>cddddde2-be8d-49d4-94dc-2d4ec282a881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>259b9221-744d-458f-a970-c37ba045735e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Take a photo
+' or . = ' Take a photo
+')]</value>
+      <webElementGuid>33b3ed9a-ad6c-45bd-a93c-4d2dda831052</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

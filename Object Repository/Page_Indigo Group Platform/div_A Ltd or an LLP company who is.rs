@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_A Ltd or an LLP company who is</name>
+   <tag></tag>
+   <elementGuidId>4d54a045-7311-41cd-a870-d23146715fbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='select-company-button']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select-company-button > #select-company-button > div > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>532730ec-4dc1-47a4-916c-b67455531af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A Ltd or an LLP company who is</value>
+      <webElementGuid>a5a85f58-334e-434c-901a-5cbd7a5d64f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-organisation-type-dialog&quot;)/div[@class=&quot;dialog-container&quot;]/div[@class=&quot;mat-dialog-content show-padding&quot;]/div[@class=&quot;content&quot;]/div[1]/app-select-option-button[@id=&quot;select-company-button&quot;]/div[@id=&quot;select-company-button&quot;]/div[1]/div[1]</value>
+      <webElementGuid>33a92fc9-3ce6-441c-8ffe-23aeddee306c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='select-company-button']/div/div</value>
+      <webElementGuid>abbb82a9-cf90-4efc-8d41-4f9b3734131f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/following::div[2]</value>
+      <webElementGuid>f72bdd0f-657f-49cb-973e-35a09d772687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='individual'])[1]/following::div[3]</value>
+      <webElementGuid>87d6b5a9-d915-46d4-8e83-9a06b82d39f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A']/parent::*</value>
+      <webElementGuid>856e81ed-e22e-4cec-84b3-20e4eff6c9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-select-option-button[3]/div/div/div</value>
+      <webElementGuid>f45db4b2-9964-4aeb-8e8a-445807de10ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'A Ltd or an LLP company who is' or . = 'A Ltd or an LLP company who is')]</value>
+      <webElementGuid>15ec6314-18d0-4705-8c35-c424194df21d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

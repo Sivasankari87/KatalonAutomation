@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Drivers</name>
+   <tag></tag>
+   <elementGuidId>ade9f645-b93d-4135-9134-80fb3d9c34fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='navigation-5']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#navigation-5 > p.menu-item-title.mt-auto.mb-auto.ms-0.me-0.ps-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c6f9f65f-2f00-4c81-84ab-cc8e9f8fe9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-title mt-auto mb-auto ms-0 me-0 ps-3</value>
+      <webElementGuid>b672bcfa-441f-434e-a47b-66bbfdd49384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drivers</value>
+      <webElementGuid>6e2c25f4-0740-4f3a-9864-15177bfcda0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation-5&quot;)/p[@class=&quot;menu-item-title mt-auto mb-auto ms-0 me-0 ps-3&quot;]</value>
+      <webElementGuid>51e04ed3-3fc1-438f-b878-d5c55408ee94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='navigation-5']/p</value>
+      <webElementGuid>e3adb085-bf8d-4db6-87b3-ca3ce3b9e2d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrators'])[1]/preceding::p[8]</value>
+      <webElementGuid>77f22b5b-0ea4-468f-9e0e-a416f1112083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::p[8]</value>
+      <webElementGuid>680fee0f-f053-4f35-b85a-ea76c239c541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Drivers']/parent::*</value>
+      <webElementGuid>89a36790-07c4-47b2-ba18-5c952ead7632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-navigation-item[5]/a/p</value>
+      <webElementGuid>77f8bbb7-ceec-47b4-93bb-5b2db84d4528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Drivers' or . = 'Drivers')]</value>
+      <webElementGuid>dee82cb3-9487-47c4-991b-adf008e5e4da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

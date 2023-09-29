@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_This is a test badge description</name>
+   <tag></tag>
+   <elementGuidId>f753e8de-a368-4325-8e71-1549b1997a6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerColour']/div[2]/div/div/app-homepage-service-list/div/div/div/div[2]/div/div/div/app-homepage-process-card/mat-card/mat-card-content/div[2]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8afeae4-d45a-44ce-bfca-6de734d89f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>a6c048e4-d817-48b3-8367-56eaf51285fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is a test badge description</value>
+      <webElementGuid>d477866b-513e-4c90-a3e4-eb48aba8fd13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;content-wrapper body-content&quot;]/app-homepage-service-list[@class=&quot;homepage-service&quot;]/div[@class=&quot;service-container&quot;]/div[@class=&quot;service-flex&quot;]/div[@class=&quot;section-container&quot;]/div[2]/div[@class=&quot;list-container ng-star-inserted&quot;]/div[@class=&quot;lists&quot;]/div[@class=&quot;listScroll&quot;]/app-homepage-process-card[@class=&quot;cards ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator homepage-process-card red&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;mat-tooltip-trigger description-container&quot;]/div[@class=&quot;description&quot;]</value>
+      <webElementGuid>2c61a168-67c2-4be2-90da-08151d59afd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerColour']/div[2]/div/div/app-homepage-service-list/div/div/div/div[2]/div/div/div/app-homepage-process-card/mat-card/mat-card-content/div[2]/div[3]/div</value>
+      <webElementGuid>50f81f44-258a-46a9-9a4b-9dee33423cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is a test badge subtitle'])[1]/following::div[6]</value>
+      <webElementGuid>9665fd09-805e-46bc-ae0f-d071968daad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phoebe Test Badge'])[1]/following::div[7]</value>
+      <webElementGuid>bdcd8ff2-78aa-46ed-9d4e-6852b6a39586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete Now'])[1]/preceding::div[2]</value>
+      <webElementGuid>585eaf7e-0594-40a3-85ae-a460d9fe34ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>c991067a-b980-458f-86d2-8f3cedde9038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'This is a test badge description' or . = 'This is a test badge description')]</value>
+      <webElementGuid>0b3b0b71-b6a0-4cc5-b0a7-4ff43894d1e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

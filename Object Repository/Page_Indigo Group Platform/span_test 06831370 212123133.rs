@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_test 06831370 212123133</name>
+   <tag></tag>
+   <elementGuidId>59bdd8fc-b624-4614-9a1b-dcddc8afd34e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topNav']/div[3]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.selected-organisation-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>616e8ceb-8d81-47f7-a1cc-0e276a3c79c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-organisation-name</value>
+      <webElementGuid>b50511e4-d9ea-463a-8dd5-a9f34a38a3a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>£ test 06831370 212123133.</value>
+      <webElementGuid>ddf81a36-9057-47a6-888f-85bcf37da1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/app-homepage-header[1]/div[@id=&quot;topNav&quot;]/div[@class=&quot;organisation-selector&quot;]/div[@class=&quot;selected-organisation brand-text ng-star-inserted&quot;]/span[@class=&quot;selected-organisation-name&quot;]</value>
+      <webElementGuid>46457436-f00a-4492-9d2b-950b3f9c505d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topNav']/div[3]/div/span</value>
+      <webElementGuid>73e371c5-5110-4501-94a6-3cb69d2f249e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Hub'])[1]/following::span[1]</value>
+      <webElementGuid>90af4a11-e61d-45b2-bf3f-4e408a5446f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Manager'])[1]/following::span[1]</value>
+      <webElementGuid>128b97b5-c59c-4517-8633-557d2b70af24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::span[1]</value>
+      <webElementGuid>c5f42a6d-eab3-4a8b-81c5-36098430326c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Module'])[2]/preceding::span[1]</value>
+      <webElementGuid>edc3b7c4-e11e-4679-8796-e5e0d23c1944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='£ test 06831370 212123133.']/parent::*</value>
+      <webElementGuid>77d75019-d61c-41dc-936a-8cee6e5c1108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span</value>
+      <webElementGuid>8a5f7d06-43aa-467a-8563-cb4abc234bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '£ test 06831370 212123133.' or . = '£ test 06831370 212123133.')]</value>
+      <webElementGuid>26150463-811d-4c13-ac80-088f84d8459a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

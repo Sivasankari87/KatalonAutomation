@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_A K Private Client Limited</name>
+   <tag></tag>
+   <elementGuidId>b8ec2f02-5238-4adc-b5f1-3dd1183d7b3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-16']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-16 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee014251-1ff6-4ca0-bbba-9741f43c6afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>12b6c177-6b9d-45e6-a961-0368ec35389b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> A K Private Client Limited </value>
+      <webElementGuid>02c7916d-e91e-4647-81ea-a50d76dce181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-16&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>a8536910-61f2-409d-ab01-72d36cc450c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-16']/span</value>
+      <webElementGuid>7fc558b0-f5c0-4102-a213-f4adab1bbc79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£ test 06831370 212123133.'])[3]/following::span[4]</value>
+      <webElementGuid>e5b995ca-0bc6-40be-93cf-75a28baa44fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite'])[1]/following::span[7]</value>
+      <webElementGuid>0753247f-89c8-4954-90cf-87eb1a95fcf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A&amp;A Scaffolding Ltd'])[1]/preceding::span[1]</value>
+      <webElementGuid>3db8329f-bc64-4389-83c2-5cdacfe39252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A4z &amp; Co International Ltd'])[1]/preceding::span[2]</value>
+      <webElementGuid>01681408-3953-4384-8bc4-64e1f85825f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A K Private Client Limited']/parent::*</value>
+      <webElementGuid>62ea6dbe-1c64-4638-8fab-1f6190f7fe66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[5]/span</value>
+      <webElementGuid>fbb5b099-caab-4e22-84e2-f45ca37b2747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' A K Private Client Limited ' or . = ' A K Private Client Limited ')]</value>
+      <webElementGuid>1ff35da8-c9f7-4bd0-b1ca-5486775b9fb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

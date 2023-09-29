@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel</name>
+   <tag></tag>
+   <elementGuidId>96d59226-46ed-4081-9d03-49c093b9d748</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-button-primary.secondary.wide.d-block.my-4.ng-star-inserted > button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>60fdd8f9-730b-4c24-aca4-99c0f812f2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a4139f00-61a2-4cfe-858d-8318a5fe0926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>ffa88a41-d3a7-474c-bcf9-a29391acffe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cancel
+</value>
+      <webElementGuid>254f0342-36f8-4db2-a325-5ca4289fcefb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-driver-invite-selfie[@class=&quot;ng-star-inserted&quot;]/app-driver-invite-wrapper[1]/div[@class=&quot;background&quot;]/div[@class=&quot;box d-flex flex-column&quot;]/div[@class=&quot;box-content d-flex flex-column align-items-center flex-grow-1 flex-shrink-1&quot;]/div[@class=&quot;content-wrapper d-flex justify-content-around flex-column align-items-center w-100&quot;]/div[1]/div[@class=&quot;list-item my-3 mx-4&quot;]/app-camera[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[1]/app-button-primary[@class=&quot;secondary wide d-block my-4 ng-star-inserted&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>178f7e94-63fc-4ed6-b76f-4b54fe0703fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>74e489d4-bc01-4276-89e6-865bf1c06e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-driver-invite-selfie/app-driver-invite-wrapper/div/div/div[2]/div[2]/div/div/app-camera/div/div/app-button-primary[2]/button</value>
+      <webElementGuid>072239fc-b1be-43a8-bf5c-b0e74752779c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Take a photo'])[1]/following::button[1]</value>
+      <webElementGuid>acf2dbc7-e7d5-435e-9636-87cdb871b1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your photo'])[1]/following::button[2]</value>
+      <webElementGuid>52d3701b-2c69-4916-bf62-42deabed71e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>4bb86e9d-d9c2-4b90-9d2d-f24f316b4f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary[2]/button</value>
+      <webElementGuid>7e4cc44b-fac7-4456-95d4-8209b454ea68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Cancel
+' or . = ' Cancel
+')]</value>
+      <webElementGuid>3d398b49-f151-4ece-8e41-90d441b92326</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

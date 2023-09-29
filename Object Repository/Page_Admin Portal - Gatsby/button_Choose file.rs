@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Choose file</name>
+   <tag></tag>
+   <elementGuidId>a1fe15f7-4562-4ecd-bd0c-860aed1251a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.file-input > button[type=&quot;button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0bb179a2-bff0-48b8-b7b0-bd5f61bc6ce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>117ef090-5a8b-45de-8573-9b58b787e4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose file</value>
+      <webElementGuid>8c2c4363-6fdb-4958-9d58-2ad959290368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-administrators-add-operator[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-3&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;px-md-5 pb-md-4 px-3 pt-5 pb-3 control-centre-form&quot;]/form[@class=&quot;alternate-theme ng-invalid ng-star-inserted ng-dirty ng-touched&quot;]/app-file-input[1]/div[@class=&quot;mt-3&quot;]/div[@class=&quot;d-flex file-input&quot;]/button[1]</value>
+      <webElementGuid>a11a9869-ef1f-4e82-8a39-396af2995a76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>fa6c3566-b130-43de-a786-513a6abcec83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-administrators-add-operator/div/div[2]/div/form/app-file-input/div/div/button</value>
+      <webElementGuid>484e69aa-0537-47e8-9c05-35468df4e21c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Services Preamble Document'])[1]/following::button[1]</value>
+      <webElementGuid>c03530ca-263e-48ff-8e27-c416fbecf6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='County'])[2]/following::button[1]</value>
+      <webElementGuid>e2ef5a93-af31-4f98-892b-befde2fd3888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File name'])[1]/preceding::button[1]</value>
+      <webElementGuid>76f3e803-1136-4bbc-8936-043da55e45bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services Preamble Document is required'])[1]/preceding::button[1]</value>
+      <webElementGuid>79f320fa-c15f-4625-9567-5af37a0883d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Choose file']/parent::*</value>
+      <webElementGuid>34e87df7-2296-42c0-bc1b-984e4a1002b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-file-input/div/div/button</value>
+      <webElementGuid>3b37fc9b-178f-4004-adab-9a91c4078b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Choose file' or . = 'Choose file')]</value>
+      <webElementGuid>a2507077-ee3a-46f0-b658-afa1dc69effb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

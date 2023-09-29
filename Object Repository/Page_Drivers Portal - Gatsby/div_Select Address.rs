@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Address</name>
+   <tag></tag>
+   <elementGuidId>9ce2a49b-7661-42ec-ba60-fc5058892cb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_ps7r6ge']/mat-form-field/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c54-38</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b422916d-c1d7-4410-aa77-90984b025fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c54-38</value>
+      <webElementGuid>daef3ec7-f808-4259-aa4b-8081fedecf0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Address..</value>
+      <webElementGuid>9a16d4e4-9f18-465d-9c02-725d6a5797ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_ps7r6ge&quot;)/mat-form-field[@class=&quot;mat-form-field mb-2 ng-tns-c54-38 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c54-38&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c54-38&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c54-38&quot;]</value>
+      <webElementGuid>cf277f39-3307-4c20-b913-3fdbf38183b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_ps7r6ge']/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>d7d4c80b-20be-4088-82ff-c9ee2cfe040c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[11]</value>
+      <webElementGuid>78948161-cdf4-4294-b107-b324058fb962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by Post Code'])[1]/following::div[14]</value>
+      <webElementGuid>cc683689-187e-42d3-8f36-1bd652b26dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Line 1 *'])[1]/preceding::div[16]</value>
+      <webElementGuid>4d4d1a50-5004-4e49-b539-983a89d29aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>49adf6c5-11ef-4709-b6a8-a12d696d4345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Address..' or . = 'Select Address..')]</value>
+      <webElementGuid>2a60a0f3-f150-4227-8837-87622a378c54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

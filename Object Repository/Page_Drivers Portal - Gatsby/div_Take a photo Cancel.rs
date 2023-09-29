@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Take a photo Cancel</name>
+   <tag></tag>
+   <elementGuidId>87c00b38-3b2a-4db8-9b24-4bd12be56ced</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content-wrapper']/app-driver-invite-license/app-driver-invite-wrapper/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.list-item.my-3.mx-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dea7fff2-2b92-4b3f-b0be-22310914e179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-item my-3 mx-4</value>
+      <webElementGuid>be3e5a08-4f70-40d3-9fa7-2659d0f76fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Take a photo
+ Cancel
+</value>
+      <webElementGuid>f7b905ce-fb69-44e5-8b51-28fd57deaf67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-driver-invite-license[@class=&quot;ng-star-inserted&quot;]/app-driver-invite-wrapper[1]/div[@class=&quot;background&quot;]/div[@class=&quot;box d-flex flex-column&quot;]/div[@class=&quot;box-content d-flex flex-column align-items-center flex-grow-1 flex-shrink-1&quot;]/div[@class=&quot;content-wrapper d-flex justify-content-around flex-column align-items-center w-100&quot;]/div[@class=&quot;list-item my-3 mx-4&quot;]</value>
+      <webElementGuid>696661ec-a379-4319-82d1-c0170618ac97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-driver-invite-license/app-driver-invite-wrapper/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>55789c20-1e6f-4d75-9a48-538520a11923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driving License'])[1]/following::div[2]</value>
+      <webElementGuid>670343f2-9031-4ad4-9d55-3cc38aa227cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>e9242e2f-8ab0-453b-9a2d-621c5d34d14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Take a photo
+ Cancel
+' or . = ' Take a photo
+ Cancel
+')]</value>
+      <webElementGuid>f35df282-70d5-4137-8033-113e4e9e70c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

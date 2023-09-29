@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Companies House Number</name>
+   <tag></tag>
+   <elementGuidId>e852629d-cc52-48ac-9911-8b7d9db1760d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content-wrapper']/app-administrators-add-operator/div/div[2]/div/form/mat-form-field[7]/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c148-7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4cea696-c6ad-49a5-9776-73387a1f7900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c148-7</value>
+      <webElementGuid>666eb15c-2797-4b7d-a321-68ea36540352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Companies House Number</value>
+      <webElementGuid>5e0e6cea-33d1-4f86-9ab7-80588666b5f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-administrators-add-operator[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-3&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;px-md-5 pb-md-4 px-3 pt-5 pb-3 control-centre-form&quot;]/form[@class=&quot;alternate-theme ng-invalid ng-star-inserted ng-dirty ng-touched&quot;]/mat-form-field[@class=&quot;mat-form-field mb-3 w-100 ng-tns-c148-7 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c148-7&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c148-7&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c148-7&quot;]</value>
+      <webElementGuid>9f7d4325-5bc5-4806-b8b1-13380e687f40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-administrators-add-operator/div/div[2]/div/form/mat-form-field[7]/div/div/div[3]</value>
+      <webElementGuid>3509e5a6-8af3-4651-90e7-a8b16401620c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Name'])[1]/following::div[14]</value>
+      <webElementGuid>3f5ced45-d414-46c6-b292-e51f125724b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency Contact Number'])[1]/following::div[28]</value>
+      <webElementGuid>de795807-d392-4524-a0d3-4033cc8df348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trading Name'])[1]/preceding::div[12]</value>
+      <webElementGuid>26775478-c9fb-46d5-8e23-f3f7ce3179e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[7]/div/div/div[3]</value>
+      <webElementGuid>45ab4972-8ad0-47c9-83d7-3bc3de96b5c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Companies House Number' or . = 'Companies House Number')]</value>
+      <webElementGuid>667ee506-605d-46ef-9282-2eac9be4502f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

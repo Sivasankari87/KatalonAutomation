@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No</name>
+   <tag></tag>
+   <elementGuidId>4c244ce1-3a8d-4657-a01b-25f990f70565</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-dialog[@id='invite-new-individual-dialog']/div/div/div[2]/div/app-isca-number-dialog-fields/app-dialog-field/div/div[2]/app-option-selector/div/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>01114b7a-ae13-43b6-9f84-d67efd344b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option size-standard ng-star-inserted</value>
+      <webElementGuid>4e694358-85f3-43c1-a4ff-3fae7f13216d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>No</value>
+      <webElementGuid>217adf72-cce9-4b79-9b8b-81e3790788e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> No </value>
+      <webElementGuid>c262e289-75f9-4bd3-bf74-fc75bd7525bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;invite-new-individual-dialog&quot;)/div[@class=&quot;dialog-container&quot;]/div[@class=&quot;mat-dialog-content show-scroll&quot;]/div[@class=&quot;content&quot;]/div[1]/app-isca-number-dialog-fields[1]/app-dialog-field[1]/div[@class=&quot;field theme-hover-8 ng-star-inserted&quot;]/div[2]/app-option-selector[1]/div[@class=&quot;option-selector&quot;]/div[1]/div[@class=&quot;option-container ng-star-inserted&quot;]/button[@class=&quot;option size-standard ng-star-inserted&quot;]</value>
+      <webElementGuid>1b3906ca-7a67-4e3f-bc05-40920289d5a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-dialog[@id='invite-new-individual-dialog']/div/div/div[2]/div/app-isca-number-dialog-fields/app-dialog-field/div/div[2]/app-option-selector/div/div/div/button[2]</value>
+      <webElementGuid>4c7c5239-6658-48c9-a71e-e1326410b784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::button[1]</value>
+      <webElementGuid>994976f0-d09c-4e38-aef6-215e1b5e29c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you know their Unique Reference?'])[1]/following::button[2]</value>
+      <webElementGuid>9ff73cda-8c72-462e-b692-73bb34a5d102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::button[1]</value>
+      <webElementGuid>3c935c12-50ae-4145-ad20-3b8683870f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite'])[1]/preceding::button[2]</value>
+      <webElementGuid>7840212f-69d4-471f-8326-2306b2793063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No']/parent::*</value>
+      <webElementGuid>2a21e2a5-9046-454a-bddd-eea1e02458c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-option-selector/div/div/div/button[2]</value>
+      <webElementGuid>f8c6c8c6-0796-4e81-8b0a-70cdd3f18a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'No' and (text() = ' No ' or . = ' No ')]</value>
+      <webElementGuid>7ee0c9a8-84a5-4747-9214-6cf522e97aed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

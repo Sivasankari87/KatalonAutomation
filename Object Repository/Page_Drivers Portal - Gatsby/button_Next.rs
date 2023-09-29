@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>9c5418eb-a7fa-4214-8869-9acaf1851a4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e61db3b-82cf-49bd-a45a-cfb281c6225d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ea3b9693-ea45-4f40-9e82-61cd4c0af657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>b877e7ea-e30a-4bd1-9110-9214723ca588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Next
+</value>
+      <webElementGuid>ec2fc99c-22d3-45f1-8dd8-410f0fa04cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-driver-invite-welcome-tour[@class=&quot;ng-star-inserted&quot;]/app-driver-invite-wrapper[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;background&quot;]/div[@class=&quot;box d-flex flex-column&quot;]/div[@class=&quot;box-content d-flex flex-column align-items-center flex-grow-1 flex-shrink-1&quot;]/div[@class=&quot;button-section px-3&quot;]/div[@class=&quot;w-100 d-flex justify-content-end mb-5 mt-3&quot;]/app-button-primary[@class=&quot;primary d-inline-block&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>ac0a6a85-7736-466e-a273-ddf21475d4cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>1eaa6f54-65aa-47d3-883f-b59f622d09e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-driver-invite-welcome-tour/app-driver-invite-wrapper/div/div/div[2]/div[3]/div/app-button-primary/button</value>
+      <webElementGuid>c869ffac-9b2d-40f0-868d-ce5faaed515e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Gatsby'])[1]/following::button[1]</value>
+      <webElementGuid>e7f37665-07a5-4d95-9f1e-d618445630bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>48018c9d-b5e8-4d75-aff3-29f2a93819b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>4d9bc45d-e7d5-4e60-9a25-0c2205212d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Next
+' or . = ' Next
+')]</value>
+      <webElementGuid>e6c75698-e9b7-41cc-8848-0f8e5945d31a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

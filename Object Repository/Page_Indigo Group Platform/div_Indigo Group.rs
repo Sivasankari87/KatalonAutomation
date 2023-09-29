@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Indigo Group</name>
+   <tag></tag>
+   <elementGuidId>58e5bf3f-9a34-43f4-8314-147c841f8cc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='organisation-select']/div/div[2]/virtual-scroller/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.organisation-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd008018-e3da-46e4-a099-ad9ff21e3aac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>organisation-option-text</value>
+      <webElementGuid>2b631c7d-38ea-4795-be82-64b3dde2db12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indigo Group</value>
+      <webElementGuid>626f1f21-ceee-4533-abb5-9284cfddfbb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/app-homepage-header[1]/app-organisation-select[1]/div[@id=&quot;organisation-select&quot;]/div[@class=&quot;menu ng-star-inserted&quot;]/div[@class=&quot;organisation-container ng-star-inserted&quot;]/virtual-scroller[@class=&quot;vertical selfScroll&quot;]/div[@class=&quot;scrollable-content&quot;]/div[@class=&quot;organisation-option button-class-background-hover-10 ng-star-inserted&quot;]/div[@class=&quot;organisation-option-text&quot;]</value>
+      <webElementGuid>c11f4912-9346-474b-9048-fb712e64de42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='organisation-select']/div/div[2]/virtual-scroller/div[2]/div/div</value>
+      <webElementGuid>fe3c439b-7f92-40cd-b1df-25e06ec62650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Profiles'])[1]/following::div[9]</value>
+      <webElementGuid>4d8105ed-f30f-4230-9541-90a4cc9ad693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£ test 06831370 212123133.'])[1]/following::div[24]</value>
+      <webElementGuid>b2013fd7-771b-4608-a6b1-52654377684d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sole Indigo Group'])[1]/preceding::div[1]</value>
+      <webElementGuid>6d262f9b-52e4-4f65-837d-233c025e9a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need Help'])[1]/preceding::div[3]</value>
+      <webElementGuid>784c058c-bd25-4f0f-a27a-48eff6e76869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Indigo Group']/parent::*</value>
+      <webElementGuid>fe5cffcc-704d-4098-b558-e206002453f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//virtual-scroller/div[2]/div/div</value>
+      <webElementGuid>40b63a20-f0fd-4d96-989b-57d58163344d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Indigo Group' or . = 'Indigo Group')]</value>
+      <webElementGuid>7b3b04ba-5342-4b71-aa13-2f0e3fe7c825</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

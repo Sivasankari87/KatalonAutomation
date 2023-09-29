@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Continue_mat-drawer-backdrop ng-star-in_87a839</name>
+   <tag></tag>
+   <elementGuidId>42ab8a83-5779-4c3a-a52e-cf1fffa06aeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-sidenav-container/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-drawer-backdrop.ng-star-inserted.mat-drawer-shown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>15e1ae39-ef88-475c-b12d-97b419d8470e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-drawer-backdrop ng-star-inserted mat-drawer-shown</value>
+      <webElementGuid>425d3547-fadb-432a-aed2-82d08c964ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;platform-teal platform-teal-sidenav platform-teal-titles platform-black-buttons&quot;]/app-root[1]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container mat-drawer-transition mat-drawer-container-has-open&quot;]/div[@class=&quot;mat-drawer-backdrop ng-star-inserted mat-drawer-shown&quot;]</value>
+      <webElementGuid>32337c1e-b7e7-4999-a73e-5aa6c30fbb5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-sidenav-container/div</value>
+      <webElementGuid>d9eeddb8-42e8-4c2a-8a08-7e293778246c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

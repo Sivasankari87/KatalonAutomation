@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Get started</name>
+   <tag></tag>
+   <elementGuidId>a15b8480-71b7-48ec-b4f7-b20358f234ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='id-badge-wizard-dialog-get-started']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id-badge-wizard-dialog-get-started > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a987e54-a558-4532-9874-191d6a04b001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>35b6504e-2d43-4493-b2d7-3499ff1bff3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get started</value>
+      <webElementGuid>92fd8bb2-3043-48a4-94ea-605010d294b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id-badge-wizard-dialog-get-started&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>cd6ad8e8-de26-437e-adb1-f8d41143e7c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='id-badge-wizard-dialog-get-started']/span</value>
+      <webElementGuid>5f81fde8-cadc-422a-ab54-875901dd8d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IN-SYNC Tax Service'])[1]/following::span[1]</value>
+      <webElementGuid>77fd80bd-d2d5-4fe7-9f6f-c53076846e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introduction / Information'])[1]/following::span[1]</value>
+      <webElementGuid>baaff166-919a-47d8-9d84-382d97af120e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get started']/parent::*</value>
+      <webElementGuid>dad3c2a2-9d78-4ed4-97dd-d648242a2eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/button/span</value>
+      <webElementGuid>d3a10e30-855a-4cce-893c-97f39a3fa581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Get started' or . = 'Get started')]</value>
+      <webElementGuid>cac4d315-f4b5-4d2b-a2a8-8dc523814c05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

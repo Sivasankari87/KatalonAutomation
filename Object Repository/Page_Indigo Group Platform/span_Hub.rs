@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hub</name>
+   <tag></tag>
+   <elementGuidId>41ef69c4-8953-4730-827b-d9d3877595ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='switch-organisation-button']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#switch-organisation-button > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9fc33e33-4f57-41d3-aaad-aea5a878dfa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hub</value>
+      <webElementGuid>9bd90f53-3725-41b6-925e-6f9db2255af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;switch-organisation-button&quot;)/span[1]</value>
+      <webElementGuid>cbe4a573-6d0f-44ed-a191-64944bba20a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='switch-organisation-button']/span</value>
+      <webElementGuid>521bbfab-a9d9-4b5b-91f9-3f11892a71f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'switch-organisation-button', '&quot;', ')/span[1]')])[1]/following::span[1]</value>
+      <webElementGuid>c5f5f135-54e3-4135-af88-f4083a96acab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date created:'])[10]/following::span[4]</value>
+      <webElementGuid>7919e450-f1cf-4b49-8638-eb0df8b42112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/preceding::span[1]</value>
+      <webElementGuid>4d4fcae0-973d-43d5-b7fe-7d91a42bd9f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing &amp; Payment'])[1]/preceding::span[2]</value>
+      <webElementGuid>c9ca75f8-4b68-44c5-b797-8d035149f421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hub']/parent::*</value>
+      <webElementGuid>3a4ba2e5-2c61-49e9-9e3c-6ea377057cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/span</value>
+      <webElementGuid>09e505ef-e27c-4953-b277-eaeaf1f6214e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hub' or . = 'Hub')]</value>
+      <webElementGuid>e6446171-5289-4fb4-97ab-c2d0fb65b0b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

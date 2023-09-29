@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Complete Now</name>
+   <tag></tag>
+   <elementGuidId>f693021e-cb2a-420f-ae4b-66eb42d91f4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerColour']/div[2]/div/div/app-homepage-service-list/div/div/div/div[2]/div/div/div/app-homepage-process-card[4]/mat-card/mat-card-content/div[2]/div[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-raised-button.mat-button-base.small.blue.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>17a03c3b-3363-4b5f-a40a-a1de05174cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>nogrow</value>
+      <webElementGuid>e9b7af21-6641-455f-bc1f-85c91e2d6665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-raised-button mat-button-base small blue cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>a22d57fc-fc4f-47b8-9bc0-34d137251bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Complete Now</value>
+      <webElementGuid>19874b59-d112-4ccb-9727-a872d72a2d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;content-wrapper body-content&quot;]/app-homepage-service-list[@class=&quot;homepage-service&quot;]/div[@class=&quot;service-container&quot;]/div[@class=&quot;service-flex&quot;]/div[@class=&quot;section-container&quot;]/div[2]/div[@class=&quot;list-container ng-star-inserted&quot;]/div[@class=&quot;lists&quot;]/div[@class=&quot;listScroll&quot;]/app-homepage-process-card[@class=&quot;cards ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator homepage-process-card blue&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[@class=&quot;content&quot;]/div[4]/button[@class=&quot;mat-focus-indicator mat-raised-button mat-button-base small blue cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>6fa548da-0203-49dc-9006-ae38ca7b13ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerColour']/div[2]/div/div/app-homepage-service-list/div/div/div/div[2]/div/div/div/app-homepage-process-card[4]/mat-card/mat-card-content/div[2]/div[4]/button</value>
+      <webElementGuid>04877093-a746-4642-8dd0-52fce8c9583b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VAT Assessment'])[4]/following::button[1]</value>
+      <webElementGuid>fc033c3c-10ba-40f0-a2b9-6492a35ed78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VAT Assessment'])[3]/following::button[1]</value>
+      <webElementGuid>b070e1fc-048d-43fe-a9a5-56f44116cf40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommended for you'])[1]/preceding::button[2]</value>
+      <webElementGuid>31320237-c654-4e6e-adc7-4584c400bf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-homepage-process-card[4]/mat-card/mat-card-content/div[2]/div[4]/button</value>
+      <webElementGuid>d4d06a30-88ae-4e72-8769-2964c1c6cf39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Complete Now' or . = 'Complete Now')]</value>
+      <webElementGuid>f1a2916a-d129-4ecd-86ea-e52b926ea6f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

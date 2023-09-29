@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>2876b79f-3321-4fb3-993f-e6c218f464c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>44946281-9370-46b8-9170-8ef08595d622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/icons/ic_cancel.svg</value>
+      <webElementGuid>67d5e8ca-4944-4a1c-a05c-f49755fdd5c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;g-sidenav-show bg-gray-100 modal-open&quot;]/ngb-modal-window[@class=&quot;custom-dialog d-block modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/ng-component[1]/div[@class=&quot;dialog&quot;]/div[@class=&quot;dialog-header&quot;]/button[@class=&quot;dialog-header-close ng-star-inserted&quot;]/span[1]/img[1]</value>
+      <webElementGuid>86db4ad4-487d-4e03-979d-2c411d8b2c78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>cd17f31c-1cee-4751-8e44-d91c2d267384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/icons/ic_cancel.svg']</value>
+      <webElementGuid>6f7ce8f8-98de-4df4-aac3-9e06869fc88e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

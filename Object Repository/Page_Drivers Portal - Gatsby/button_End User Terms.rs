@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_End User Terms</name>
+   <tag></tag>
+   <elementGuidId>7a764f94-1d2e-4711-a1e3-e4304a2cb1e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5ecc5190-69d7-471c-be8d-72eba12e57e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c1a163ec-5e78-4f00-bfaa-56b8ed14f13b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>2e3c9e00-cb26-4f8f-8fb3-c6ad4ffa6712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> End User Terms
+</value>
+      <webElementGuid>4f51dd46-828b-4909-9930-c25f6e16de7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/app-invite-terms[@class=&quot;ng-star-inserted&quot;]/app-driver-invite-wrapper[1]/div[@class=&quot;background&quot;]/div[@class=&quot;box d-flex flex-column&quot;]/div[@class=&quot;box-content d-flex flex-column align-items-center flex-grow-1 flex-shrink-1&quot;]/div[@class=&quot;content-wrapper d-flex justify-content-around flex-column align-items-center w-100&quot;]/div[1]/div[@class=&quot;d-flex flex-column align-items-center&quot;]/div[@class=&quot;mb-1 d-flex flex-row ng-star-inserted&quot;]/app-button-primary[@class=&quot;primary wide d-block pt-4 pb-2 mt-0 terms-button&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>c8614027-b1a1-4af2-9ada-4dca1c14c60b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>28df8f16-dbc5-4c1c-82a9-c3c671b27279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/app-invite-terms/app-driver-invite-wrapper/div/div/div[2]/div[2]/div/div/div/app-button-primary/button</value>
+      <webElementGuid>5dc8e3bb-1f48-470c-ae1d-d2dfeedfcb7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::button[1]</value>
+      <webElementGuid>817e5452-1807-439f-876b-0af7ef24192d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::button[1]</value>
+      <webElementGuid>e8f229d7-0047-4983-b45f-94d77cc2b2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy'])[1]/preceding::button[2]</value>
+      <webElementGuid>865b2187-a6e6-4b0c-90c6-2bf9dfb0fad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='End User Terms']/parent::*</value>
+      <webElementGuid>45baffda-7158-4f1d-bc67-b9c18e34d06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>11966430-61cc-40e1-bf3c-e00969c1a911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' End User Terms
+' or . = ' End User Terms
+')]</value>
+      <webElementGuid>288916dd-8133-4d43-ae21-a8de300a051e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

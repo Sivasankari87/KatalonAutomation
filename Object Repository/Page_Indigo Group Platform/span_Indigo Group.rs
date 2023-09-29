@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Indigo Group</name>
+   <tag></tag>
+   <elementGuidId>3e670914-4073-46ee-8ce8-154a2dad174b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-73']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-73 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>57a89f07-ccf6-44cb-85f3-96081d9b85e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>7b312207-3d35-4727-ab23-7758d86f3e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Indigo Group </value>
+      <webElementGuid>043307b7-d7bf-4b93-b79e-01424a3164ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-73&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>a935fae1-d3d6-4d90-b2c6-0a74c15235fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-73']/span</value>
+      <webElementGuid>b5a0369b-e685-4965-84d2-c9806750940c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indigo Client 1'])[1]/following::span[1]</value>
+      <webElementGuid>73cacacb-a4c4-4513-b1d1-71904994b90a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ice Cream Angels Ltd.'])[2]/following::span[2]</value>
+      <webElementGuid>e8c3a841-79fc-46d8-af14-aa8a49a03851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indigo Tech Holdings Limited'])[1]/preceding::span[1]</value>
+      <webElementGuid>99531468-9cf8-4f5a-85d1-d569c405ca36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite Consulting Limited'])[2]/preceding::span[2]</value>
+      <webElementGuid>a8e2c15f-123f-468a-bdcc-19dc389eeedc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[11]/span</value>
+      <webElementGuid>47360189-a1e8-455c-84bf-48ff1a0a4f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Indigo Group ' or . = ' Indigo Group ')]</value>
+      <webElementGuid>74b68d78-764e-41fb-98dd-6e83e8b4b663</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Driving License Number</name>
+   <tag></tag>
+   <elementGuidId>9e240975-d921-49f8-9522-6ebf9ea82aa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content-wrapper']/ng-component/app-driver-invite-wrapper/div/div/div[2]/div[2]/div/div/form/mat-form-field/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c54-42</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca42219d-0414-479d-9161-416a035f01cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c54-42</value>
+      <webElementGuid>8a71103e-dd7c-4706-988a-eee0eca7229c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Driving License Number *</value>
+      <webElementGuid>5ccdeb87-297e-47eb-8914-6ab688d82714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/ng-component[@class=&quot;ng-star-inserted&quot;]/app-driver-invite-wrapper[1]/div[@class=&quot;background&quot;]/div[@class=&quot;box d-flex flex-column&quot;]/div[@class=&quot;box-content d-flex flex-column align-items-center flex-grow-1 flex-shrink-1&quot;]/div[@class=&quot;content-wrapper d-flex justify-content-around flex-column align-items-center w-100&quot;]/div[1]/div[@class=&quot;invite d-flex flex-column w-100&quot;]/form[@class=&quot;d-flex flex-column pt-3 alternate-theme ng-invalid ng-star-inserted ng-dirty ng-touched&quot;]/mat-form-field[@class=&quot;mat-form-field mt-2 ng-tns-c54-42 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label ng-invalid ng-star-inserted mat-form-field-should-float ng-dirty mat-form-field-invalid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c54-42&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c54-42&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c54-42&quot;]</value>
+      <webElementGuid>18e617b1-4842-4353-a010-9c942266c9fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/ng-component/app-driver-invite-wrapper/div/div/div[2]/div[2]/div/div/form/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>152f411a-8368-4084-a32e-bdf8134fc033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your details'])[1]/following::div[14]</value>
+      <webElementGuid>c95ab812-7d8b-43fd-8db9-226244c761cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please provide a correct Driver Licence Number'])[1]/preceding::div[1]</value>
+      <webElementGuid>4e1a8c46-470f-47fb-9631-9bb7a02b4a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>c10e928e-6483-412c-aeb4-880acf051c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Driving License Number *' or . = 'Driving License Number *')]</value>
+      <webElementGuid>35c52649-d876-4738-9588-44a36788fb9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
