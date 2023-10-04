@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f8667032-3725-4e8b-9383-22feef5e1ef7</webElementGuid>
+      <webElementGuid>e45f9acc-b197-4c8a-b857-a3ebd63797b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>id</name>
       <type>Main</type>
       <value>forgotPassword</value>
-      <webElementGuid>e087bfed-4b2c-41fb-ba79-6cc0487f9ec2</webElementGuid>
+      <webElementGuid>ed2f1524-fb93-44c3-ae04-f7e47e484756</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/gatsbytest.onmicrosoft.com/B2C_1A_Driver_SignUpSignIn/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPasswordExchange&amp;csrf_token=RWJlc3VkS0g5MHlpa2Zja0JSOTBpYkR6QWVTT3VQbGsvTWhHUHdCRnFYVGNzZHVibXBaWmdYbXBvYzVwTE5kTTgxTThKRjlERTNzeFdRVWs4bEJtQ0E9PTsyMDIzLTEwLTA0VDEzOjQ1OjE5LjI1NDIyNzFaO2IvTTg3L2d1QXdHSDlmVnpKL21RREE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjozfQ==&amp;tx=StateProperties=eyJUSUQiOiJmOWM4YjQyMC02MDY0LTRiOGYtYTc0NS1lOTAzM2YwZWZhYTkifQ&amp;p=B2C_1A_Driver_SignUpSignIn</value>
-      <webElementGuid>0b975c76-5392-48ea-ad51-0de95d22b987</webElementGuid>
+      <value>/gatsbytest.onmicrosoft.com/B2C_1A_Driver_SignUpSignIn/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPasswordExchange&amp;csrf_token=THBaZE9ZWUVWSXVmeit6TExXejJ3RENYemZpOStVVGx0V1I5L2J4NlpMdmdWWEkrMkVGSDFwdkhPMEticy9tbVFmMzd4REYvK0o0RXlZZDcrSlEramc9PTsyMDIzLTEwLTA0VDEzOjU0OjQ4Ljk0OTIyMzhaO0owRDhkczJWMmNOdU5Ya1UvNW1haFE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjozfQ==&amp;tx=StateProperties=eyJUSUQiOiI5OWU2MTI0MS00Y2JhLTQxMmItYmE2Yy1iOTI1MWYxYWQyNTUifQ&amp;p=B2C_1A_Driver_SignUpSignIn</value>
+      <webElementGuid>bd8d1af2-0973-4eb2-82bf-5cc91604bbce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Forgot your password?</value>
-      <webElementGuid>0658e7d2-3998-46eb-af01-4c73628681ea</webElementGuid>
+      <webElementGuid>3aae1705-b018-4659-993e-315cc2d7d586</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;forgotPassword&quot;)</value>
-      <webElementGuid>d70ff1c4-cf66-41e3-a262-828f534476db</webElementGuid>
+      <webElementGuid>607e2733-21d6-4ec2-932d-639c8ec62a10</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='forgotPassword']</value>
-      <webElementGuid>f88524c1-00ac-49d5-833d-e47ecf92cd9e</webElementGuid>
+      <webElementGuid>910852d5-8c9e-41b7-b9e4-a3c1d8a1f75f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='localAccountForm']/div[3]/div[2]/div/a</value>
-      <webElementGuid>48221551-cd9a-47bf-be76-6698017917a1</webElementGuid>
+      <webElementGuid>cf3159ff-c36f-4ba3-ac94-72b60d0436e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Forgot your password?')]</value>
-      <webElementGuid>9625bda0-9df8-491e-a4d7-b0b1713b0550</webElementGuid>
+      <webElementGuid>931c2772-2ffb-4733-b2d7-e135e8598d75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::a[1]</value>
-      <webElementGuid>155a4346-e5b3-4e0b-bb2f-733412bb5ebb</webElementGuid>
+      <webElementGuid>2b37a2f8-0b47-4101-acd3-443c13d968d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::a[1]</value>
-      <webElementGuid>f75e0e67-93e9-437d-b897-7f8f3d1a323b</webElementGuid>
+      <webElementGuid>ac972f31-646f-4289-9e3a-b61f3a5c80e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::a[1]</value>
-      <webElementGuid>22408028-fb98-40f4-a9bf-c176d32c3474</webElementGuid>
+      <webElementGuid>8d62b3c1-1ecb-4334-b110-58a17cf5c717</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Forgot your password?']/parent::*</value>
-      <webElementGuid>5e36f561-84b3-45a7-a47f-3bf7862a3aca</webElementGuid>
+      <webElementGuid>7747067e-ef18-4225-bf41-30d163026ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gatsbytest.onmicrosoft.com/B2C_1A_Driver_SignUpSignIn/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPasswordExchange&amp;csrf_token=THBaZE9ZWUVWSXVmeit6TExXejJ3RENYemZpOStVVGx0V1I5L2J4NlpMdmdWWEkrMkVGSDFwdkhPMEticy9tbVFmMzd4REYvK0o0RXlZZDcrSlEramc9PTsyMDIzLTEwLTA0VDEzOjU0OjQ4Ljk0OTIyMzhaO0owRDhkczJWMmNOdU5Ya1UvNW1haFE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjozfQ==&amp;tx=StateProperties=eyJUSUQiOiI5OWU2MTI0MS00Y2JhLTQxMmItYmE2Yy1iOTI1MWYxYWQyNTUifQ&amp;p=B2C_1A_Driver_SignUpSignIn')]</value>
+      <webElementGuid>2c32cd90-7d43-4a31-a068-80223da10b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>e26e4cfc-2405-4f8c-ad46-714ecc74f6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'forgotPassword' and @href = '/gatsbytest.onmicrosoft.com/B2C_1A_Driver_SignUpSignIn/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPasswordExchange&amp;csrf_token=THBaZE9ZWUVWSXVmeit6TExXejJ3RENYemZpOStVVGx0V1I5L2J4NlpMdmdWWEkrMkVGSDFwdkhPMEticy9tbVFmMzd4REYvK0o0RXlZZDcrSlEramc9PTsyMDIzLTEwLTA0VDEzOjU0OjQ4Ljk0OTIyMzhaO0owRDhkczJWMmNOdU5Ya1UvNW1haFE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjozfQ==&amp;tx=StateProperties=eyJUSUQiOiI5OWU2MTI0MS00Y2JhLTQxMmItYmE2Yy1iOTI1MWYxYWQyNTUifQ&amp;p=B2C_1A_Driver_SignUpSignIn' and (text() = 'Forgot your password?' or . = 'Forgot your password?')]</value>
+      <webElementGuid>eba9bb44-db9a-4e44-b1b5-ca4e0cfebd1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,14 +143,6 @@
       <type>Main</type>
       <value>//a[contains(@href, '/gatsbytest.onmicrosoft.com/B2C_1A_Driver_SignUpSignIn/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPasswordExchange&amp;csrf_token=RWJlc3VkS0g5MHlpa2Zja0JSOTBpYkR6QWVTT3VQbGsvTWhHUHdCRnFYVGNzZHVibXBaWmdYbXBvYzVwTE5kTTgxTThKRjlERTNzeFdRVWs4bEJtQ0E9PTsyMDIzLTEwLTA0VDEzOjQ1OjE5LjI1NDIyNzFaO2IvTTg3L2d1QXdHSDlmVnpKL21RREE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjozfQ==&amp;tx=StateProperties=eyJUSUQiOiJmOWM4YjQyMC02MDY0LTRiOGYtYTc0NS1lOTAzM2YwZWZhYTkifQ&amp;p=B2C_1A_Driver_SignUpSignIn')]</value>
       <webElementGuid>5b0f8c4e-869e-4893-8f2d-00de0f881ddb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//a</value>
-      <webElementGuid>cc7bd36e-692d-48ca-baf6-4a6227aa332b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
