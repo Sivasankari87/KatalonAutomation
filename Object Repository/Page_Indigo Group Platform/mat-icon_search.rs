@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//app-dialog[@id='invite-registered-company-dialog']/div/div/div[2]/div/mat-form-field/div/div/div/span/mat-icon</value>
+         <value>//div[@id='content-container']/content/ng-component/div/mat-drawer-container/mat-drawer-content/div/div/app-payrun-remittances-list-mobile/div/div[2]/button/span/mat-icon</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.ng-tns-c113-100 > mat-icon.mat-icon.notranslate.material-icons.mat-ligature-font.mat-icon-no-color</value>
+         <value>button.mat-focus-indicator.mat-icon-button.mat-button-base.cdk-focused.cdk-touch-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.button-class-text.material-icons.mat-ligature-font.mat-icon-no-color</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>3c461362-4fa9-488f-a20f-143217f8169a</webElementGuid>
+      <webElementGuid>b686c649-e378-49c3-bfc6-4d6f21c3815c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>15d04a16-82fc-4eb1-8047-8c096935cb84</webElementGuid>
+      <webElementGuid>b051946d-a64e-4b09-a35a-8c5ea3631d6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color</value>
-      <webElementGuid>e644c3ab-7913-4c47-aedf-1429451ae4c2</webElementGuid>
+      <value>mat-icon notranslate button-class-text material-icons mat-ligature-font mat-icon-no-color</value>
+      <webElementGuid>62d5c589-563e-471a-8c22-a1670f0dad65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bf813174-7193-433a-a1d9-a5683e727da6</webElementGuid>
+      <webElementGuid>2e73b524-ce9e-46be-bef2-aec6202bde71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>862e9d8d-66ce-4ee7-8c67-c2d1740bee74</webElementGuid>
+      <webElementGuid>2d3dc5ab-c89d-47de-b6b8-6aabbd37d5f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,18 +62,82 @@
       <name>text</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>fbc83872-1899-4062-a06a-d14f2ad7f096</webElementGuid>
+      <webElementGuid>cad33659-4703-4b47-884e-a98b7951cdd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;invite-registered-company-dialog&quot;)/div[@class=&quot;dialog-container&quot;]/div[@class=&quot;mat-dialog-content show-padding&quot;]/div[@class=&quot;header-content&quot;]/div[@class=&quot;ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-100 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-star-inserted mat-form-field-should-float ng-dirty ng-touched ng-valid mat-focused&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-100&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-100&quot;]/div[@class=&quot;mat-form-field-prefix ng-tns-c113-100 ng-star-inserted&quot;]/span[@class=&quot;ng-tns-c113-100&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
-      <webElementGuid>65916ae4-d503-4fd2-9256-0d59dd89d025</webElementGuid>
+      <value>id(&quot;content-container&quot;)/content[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-drawer-container[@class=&quot;mat-drawer-container drawer-form-container rebrand mat-drawer-container-explicit-backdrop&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/div[@class=&quot;body-content&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-payrun-remittances-list-mobile[1]/div[1]/div[@class=&quot;icon-buttons&quot;]/button[@class=&quot;mat-focus-indicator mat-icon-button mat-button-base cdk-focused cdk-touch-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate button-class-text material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
+      <webElementGuid>da147629-2f8e-408e-8b11-03c37854d1af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-container']/content/ng-component/div/mat-drawer-container/mat-drawer-content/div/div/app-payrun-remittances-list-mobile/div/div[2]/button/span/mat-icon</value>
+      <webElementGuid>3071e7c7-d731-4f1e-91cb-42929cec3ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload remittance'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>e3a7352d-8f90-4606-ba0f-d2bc57502366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indigo Group'])[1]/following::mat-icon[4]</value>
+      <webElementGuid>ec152334-dcf5-4362-9bfd-dfebdd8e8b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Created'])[1]/preceding::mat-icon[3]</value>
+      <webElementGuid>64bc25b7-0b17-4025-bf84-b49597b28e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference'])[1]/preceding::mat-icon[3]</value>
+      <webElementGuid>c133fdb0-7550-49c1-93e1-26301dbad4b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='search']/parent::*</value>
+      <webElementGuid>d9579f7e-5bd7-469e-9b49-96cb8d668c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/mat-icon</value>
+      <webElementGuid>42a976aa-d6c0-47fa-bf58-251fb03b8db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'search' or . = 'search')]</value>
+      <webElementGuid>43cff263-6bf0-4e60-b808-87367f13ec5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -119,13 +183,5 @@
       <type>Main</type>
       <value>//div[2]/div/mat-form-field/div/div/div/span/mat-icon</value>
       <webElementGuid>a5cfa19e-c1ff-4c38-811f-95201c0580d3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//mat-icon[(text() = 'search' or . = 'search')]</value>
-      <webElementGuid>2beff2fb-f527-403c-91da-2d4e682c90a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

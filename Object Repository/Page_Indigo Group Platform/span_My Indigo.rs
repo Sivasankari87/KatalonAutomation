@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Indigo</name>
+   <tag></tag>
+   <elementGuidId>8ec54934-3be7-45b9-8651-ff2f9ed2e4ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hub_navigation_77 > span.mat-list-item-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-list-item[@id='hub_navigation_77']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d3a39e8-c2aa-4d5f-8948-a380896cd390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-item-content</value>
+      <webElementGuid>ddabdd62-9d88-49ba-ae1c-372c98162f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> My Indigo  </value>
+      <webElementGuid>88d887ae-9959-4f8d-98d3-ac7c45235102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hub_navigation_77&quot;)/span[@class=&quot;mat-list-item-content&quot;]</value>
+      <webElementGuid>fd0bccb0-5975-4184-b3c3-477db6289792</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-list-item[@id='hub_navigation_77']/span</value>
+      <webElementGuid>ce0f4c06-8983-484e-a6dd-31c81bd1a6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contractor Hub'])[1]/following::span[1]</value>
+      <webElementGuid>54f8436c-90e1-4a5b-95eb-1aa8dde8fdc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supply Chain Assurance'])[1]/following::span[4]</value>
+      <webElementGuid>863acc06-cc2c-490c-a6f3-369f24b3781a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/preceding::span[4]</value>
+      <webElementGuid>519c92fa-0b2e-4072-95a9-cb4f50ccc8d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-list-item[9]/span</value>
+      <webElementGuid>3ac50624-b9ec-4bc0-bd07-097d1e3660d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' My Indigo  ' or . = ' My Indigo  ')]</value>
+      <webElementGuid>a06adc34-d085-41f4-8d68-1e75ef7e6b9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

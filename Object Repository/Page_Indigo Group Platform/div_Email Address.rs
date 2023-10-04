@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email Address</name>
+   <tag></tag>
+   <elementGuidId>bae03f69-d50b-44bd-ad1b-849ff6cdf381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c113-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerColour']/div[2]/div/form/mat-form-field/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc949a8c-ba88-4a36-b4bb-b68214f86368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c113-1</value>
+      <webElementGuid>ea041d68-8d90-4320-87c2-b78b87f10d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email Address *</value>
+      <webElementGuid>2d9261c5-ef8d-46d9-aedb-bfd42fc58ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-1 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label ng-star-inserted mat-form-field-should-float ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-1&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-1&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c113-1&quot;]</value>
+      <webElementGuid>1b083f2b-24bc-4b67-9ade-5051b608bfe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerColour']/div[2]/div/form/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>402f5331-2290-4da1-9e6a-ddb4598ca340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use the form below to log in to your account.'])[1]/following::div[11]</value>
+      <webElementGuid>1ee55d60-ee08-47d1-ac7f-e58fb1792973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/following::div[12]</value>
+      <webElementGuid>d24f040f-e398-4c9c-92e9-4c754f20ab76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[12]</value>
+      <webElementGuid>e79426ba-df61-4da8-b7f0-e4461ab48843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]</value>
+      <webElementGuid>3c41a039-227f-4955-bf33-c4d96eded1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email Address *' or . = 'Email Address *')]</value>
+      <webElementGuid>6fbc14e0-b58b-43fe-8bb2-e617dc82a8c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

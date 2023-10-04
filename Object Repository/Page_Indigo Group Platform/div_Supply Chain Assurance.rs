@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='homepage_icon_70']/div</value>
+         <value>//div[@id='homepage_icon_70']/div/div[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#homepage_icon_70 > div.service-text</value>
+         <value>#homepage_icon_70 > div > div.hub-product-text.brand-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>78286b3d-ad3e-49a0-9ab2-baef087de645</webElementGuid>
+      <webElementGuid>dd9bdb55-d282-4ab0-9202-b6b1a2bdcf6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>service-text</value>
-      <webElementGuid>d7f59684-6179-44dd-ac25-a286b277a2e0</webElementGuid>
+      <value>hub-product-text brand-text</value>
+      <webElementGuid>a1b5edeb-1bf4-4ef5-abcd-48732ea3bff8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,18 +38,74 @@
       <name>text</name>
       <type>Main</type>
       <value>Supply Chain Assurance</value>
-      <webElementGuid>4a0be7e4-a39a-4306-a191-020dbde53520</webElementGuid>
+      <webElementGuid>9ae218b8-16d6-4a31-9254-060f1882122c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;content-wrapper body-content&quot;]/app-homepage-service-list[@class=&quot;homepage-service&quot;]/div[@class=&quot;service-container&quot;]/div[@class=&quot;service-flex&quot;]/div[@class=&quot;section-container&quot;]/div[1]/div[@id=&quot;homepage-services&quot;]/div[@class=&quot;apps-container enabled&quot;]/div[@id=&quot;homepage_icon_70&quot;]/div[@class=&quot;service-text&quot;]</value>
-      <webElementGuid>ed2d797b-9b0d-4766-b5ea-a83b8febc6b1</webElementGuid>
+      <value>id(&quot;homepage_icon_70&quot;)/div[1]/div[@class=&quot;hub-product-text brand-text&quot;]</value>
+      <webElementGuid>a94936b4-6b3b-4ad8-83d8-67187cc693c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='homepage_icon_70']/div/div[2]</value>
+      <webElementGuid>920b5267-907e-4e93-9f83-dc9410d8bbec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acl Client Portal'])[2]/following::div[4]</value>
+      <webElementGuid>ac1c8d21-d6ce-410d-a6bf-b2e050b9b1c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Indigo (FRS)'])[2]/following::div[8]</value>
+      <webElementGuid>b980006a-539d-465b-ab23-b76bf35d531c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contractor Hub'])[2]/preceding::div[2]</value>
+      <webElementGuid>60bdaff3-6687-4732-beab-800b00d455e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Invoice Audit History'])[1]/preceding::div[6]</value>
+      <webElementGuid>30e9f072-ae06-49de-bd77-98319175215d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]</value>
+      <webElementGuid>5e2c96a3-46c0-4019-b1d9-7a7bc2271e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Supply Chain Assurance' or . = 'Supply Chain Assurance')]</value>
+      <webElementGuid>0baeffc6-8278-43a8-ba7e-6c69ab7d2943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -95,13 +151,5 @@
       <type>Main</type>
       <value>//div[5]/div</value>
       <webElementGuid>c801b8db-69a9-4422-9124-4e3ad62f40c5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'Supply Chain Assurance' or . = 'Supply Chain Assurance')]</value>
-      <webElementGuid>631238b2-294c-440d-aa21-3e56e119212b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

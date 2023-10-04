@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_filter_listdownload</name>
+   <tag></tag>
+   <elementGuidId>63ffe7c3-a02e-4f0c-87df-ca90db498e83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-container']/content/ng-component/div/mat-drawer-container/mat-drawer-content/div/div/app-payrun-remittances-list-mobile/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-buttons > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d264804e-2793-4614-bc28-c1f29fd8926c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>5ed07d97-56c7-4bcc-b428-d7e42b47e33c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutalign</name>
+      <type>Main</type>
+      <value>end center</value>
+      <webElementGuid>1a6a264a-c0d4-4fba-8cd3-d3b8f5b160b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutgap</name>
+      <type>Main</type>
+      <value>10px</value>
+      <webElementGuid>57063d6a-c916-43df-93ff-0dfc987e9e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>filter_listdownload</value>
+      <webElementGuid>1ec92737-f1bf-48eb-ba90-d830bbe43cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-container&quot;)/content[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-drawer-container[@class=&quot;mat-drawer-container drawer-form-container rebrand mat-drawer-container-explicit-backdrop&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/div[@class=&quot;body-content&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-payrun-remittances-list-mobile[1]/div[1]/div[@class=&quot;icon-buttons&quot;]/div[1]</value>
+      <webElementGuid>7d7c4acd-f941-4e69-b779-6b664aedd0bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-container']/content/ng-component/div/mat-drawer-container/mat-drawer-content/div/div/app-payrun-remittances-list-mobile/div/div[2]/div</value>
+      <webElementGuid>71718b4b-3839-42f8-b805-afd98fd3075f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload remittance'])[1]/following::div[8]</value>
+      <webElementGuid>93a27e7b-b22c-48e0-9f9c-15c675954445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indigo Group'])[1]/following::div[16]</value>
+      <webElementGuid>a2d2911e-dd94-4801-b057-e8af8a41878f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Created'])[1]/preceding::div[1]</value>
+      <webElementGuid>cc68b4ed-8ec3-4c6b-bbb6-3d7bcef8077b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference'])[1]/preceding::div[1]</value>
+      <webElementGuid>5aff9a36-97f6-4956-a7f5-0039c41bbfe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-payrun-remittances-list-mobile/div/div[2]/div</value>
+      <webElementGuid>b5f1c5e9-8dec-4d67-8fc3-ee3ed202436e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'filter_listdownload' or . = 'filter_listdownload')]</value>
+      <webElementGuid>608a8491-5aec-49a3-bc01-5c6738a7c6f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

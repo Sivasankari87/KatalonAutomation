@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>1b26e8d0-a880-4c25-bc2a-cfcd11ce69b0</webElementGuid>
+      <webElementGuid>b3ff22e0-0d72-461b-a7cd-5ce1047025ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>257ec363-5b9e-45da-91e3-18f1e2df696c</webElementGuid>
+      <webElementGuid>006810cb-e698-45ae-8281-b59fa452eebe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate button-class-text material-icons mat-ligature-font mat-icon-no-color</value>
-      <webElementGuid>5709ff80-b01e-4075-9694-58281cdd24e1</webElementGuid>
+      <webElementGuid>1e53cceb-5df5-4eb1-88bc-7e89d358af12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3780db31-fccc-40b3-83e4-421d3e372dcb</webElementGuid>
+      <webElementGuid>f1ea371b-69fc-4a6e-abc0-f54b8323f6f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>dae3f71b-418c-4c62-85a6-a583cea016de</webElementGuid>
+      <webElementGuid>b76eacd8-148a-4353-a86f-a82fe9c97b83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,15 +62,15 @@
       <name>text</name>
       <type>Main</type>
       <value>expand_more</value>
-      <webElementGuid>0437142b-61a6-4c59-9208-191217419717</webElementGuid>
+      <webElementGuid>43f748cb-69fd-43a9-8342-e0451099a09c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/app-homepage-header[1]/div[@id=&quot;topNav&quot;]/div[@class=&quot;organisation-selector&quot;]/div[@class=&quot;selected-organisation brand-text ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate button-class-text material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
-      <webElementGuid>296d9d4e-db2b-4d99-bae6-92e541171765</webElementGuid>
+      <value>id(&quot;topNav&quot;)/div[@class=&quot;organisation-selector&quot;]/div[@class=&quot;selected-organisation brand-text ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate button-class-text material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
+      <webElementGuid>a4ee277c-e933-4949-b338-34318cbfcb63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='topNav']/div[3]/div/mat-icon</value>
-      <webElementGuid>23d7abc4-a491-41f1-90c6-34424a16c503</webElementGuid>
+      <webElementGuid>8b4054f7-a1bc-40a3-946a-374a1ea7726c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='£ test 06831370 212123133.'])[1]/following::mat-icon[1]</value>
-      <webElementGuid>aa7ef58b-9e12-4a4c-8ae9-45f45776f57a</webElementGuid>
+      <webElementGuid>6380a6ed-95a7-4f3c-8da4-bcbf9fdf44e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,47 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Hub'])[1]/following::mat-icon[1]</value>
-      <webElementGuid>2c89b0a5-0e23-42cd-a75b-210a72543ff5</webElementGuid>
+      <webElementGuid>fe6deb48-964b-4fa7-82b0-3445b6fce9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Module'])[2]/preceding::mat-icon[1]</value>
+      <webElementGuid>210f5519-bcc1-467b-ad98-acd068c51e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marquee Client Portal'])[2]/preceding::mat-icon[2]</value>
+      <webElementGuid>a2f25cc8-aa2e-4cda-8439-c648b5da063d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='expand_more']/parent::*</value>
+      <webElementGuid>c38b5b0c-eff2-4880-88db-c23e27a21655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/mat-icon</value>
+      <webElementGuid>fd593b02-b5ac-45b2-b76a-a420971fceb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'expand_more' or . = 'expand_more')]</value>
+      <webElementGuid>b95d467a-0018-40f2-af09-229268c724cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,37 +143,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::mat-icon[1]</value>
       <webElementGuid>74aed4cb-58c5-4188-b1ab-588df76541f6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Module'])[2]/preceding::mat-icon[1]</value>
-      <webElementGuid>61ba472f-d631-4065-8eed-b6eea97af2f1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='expand_more']/parent::*</value>
-      <webElementGuid>42544c42-a285-4292-9232-7675567c98e4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/mat-icon</value>
-      <webElementGuid>ace3545b-9706-4616-bd9a-cdbf676c0d84</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//mat-icon[(text() = 'expand_more' or . = 'expand_more')]</value>
-      <webElementGuid>e190351f-1743-4c86-8526-32409c6d4a8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

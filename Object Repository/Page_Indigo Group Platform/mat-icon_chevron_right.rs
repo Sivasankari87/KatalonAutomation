@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='headerColour']/div[2]/div/div/app-homepage-service-list/div/div/div/div[2]/div/div/button[2]/span/mat-icon</value>
+         <value>//div[@id='content-container']/content/ng-component/div/mat-drawer-container/mat-drawer-content/div/div/app-payrun-remittances-list-mobile/div/div[3]/mat-table/mat-row/mat-cell[4]/mat-icon</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.mat-focus-indicator.mat-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-ligature-font.mat-icon-no-color</value>
+         <value>mat-icon.mat-icon.notranslate.button-class-text.chevron-icon.material-icons.mat-ligature-font.mat-icon-no-color</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>7da47814-48e7-4988-b52e-c773a3573f4e</webElementGuid>
+      <webElementGuid>618c3289-43f1-4396-af01-fa4667243176</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>66ef924a-1018-4708-898f-c039db655093</webElementGuid>
+      <webElementGuid>71a4fd1b-bfc5-4e1b-9feb-74a844e1fd02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color</value>
-      <webElementGuid>e1dc185c-4f56-4be6-bfc5-62b9ab56fb26</webElementGuid>
+      <value>mat-icon notranslate button-class-text chevron-icon material-icons mat-ligature-font mat-icon-no-color</value>
+      <webElementGuid>870b3fc2-3a6a-43b2-9760-31715fbd1456</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>df62289b-84d5-411f-a4d2-87738ba2f8b8</webElementGuid>
+      <webElementGuid>3bb34dfc-38de-4f75-bc4d-f3c487837381</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>e88de2bc-0d9a-4122-8957-22feb8ce5640</webElementGuid>
+      <webElementGuid>5e59c95a-017a-4320-8696-63c3aa53ae60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,18 +62,82 @@
       <name>text</name>
       <type>Main</type>
       <value>chevron_right</value>
-      <webElementGuid>ec88bbaf-052d-4d2b-8775-14d5d47e5fea</webElementGuid>
+      <webElementGuid>d868b57b-aaaa-4b23-8990-9f51e56b3397</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;content-wrapper body-content&quot;]/app-homepage-service-list[@class=&quot;homepage-service&quot;]/div[@class=&quot;service-container&quot;]/div[@class=&quot;service-flex&quot;]/div[@class=&quot;section-container&quot;]/div[2]/div[@class=&quot;list-container ng-star-inserted&quot;]/div[@class=&quot;lists&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
-      <webElementGuid>c8725471-7bf5-40c8-ae79-7c4428a5b9af</webElementGuid>
+      <value>id(&quot;content-container&quot;)/content[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-drawer-container[@class=&quot;mat-drawer-container drawer-form-container rebrand mat-drawer-container-explicit-backdrop&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/div[@class=&quot;body-content&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-payrun-remittances-list-mobile[1]/div[1]/div[@class=&quot;ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table cdk-table mobile-table&quot;]/mat-row[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-chevron mat-column-chevron ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate button-class-text chevron-icon material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
+      <webElementGuid>5edc98c6-5d7c-42ac-afb9-289e6fdebf18</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-container']/content/ng-component/div/mat-drawer-container/mat-drawer-content/div/div/app-payrun-remittances-list-mobile/div/div[3]/mat-table/mat-row/mat-cell[4]/mat-icon</value>
+      <webElementGuid>1dd0b6bb-0d35-4885-8536-8d02608d5c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tester'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>1d4d20fd-6e29-4fbc-9bc2-632aa3ca736e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>f60de448-a350-408b-ba7b-8280f9547e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/preceding::mat-icon[2]</value>
+      <webElementGuid>861671be-8ab2-40d0-a4b7-2216375946f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::mat-icon[4]</value>
+      <webElementGuid>b1326cb1-7f7e-43e8-8af1-661d7a8aaa17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='chevron_right']/parent::*</value>
+      <webElementGuid>796cfec8-f296-4bf2-9d77-99c79b04678f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-cell[4]/mat-icon</value>
+      <webElementGuid>d9dbb0a8-9d00-4347-97cb-0457db471841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'chevron_right' or . = 'chevron_right')]</value>
+      <webElementGuid>98a4059d-8579-4f6c-9079-c22dd6cca39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -115,25 +179,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='chevron_right']/parent::*</value>
-      <webElementGuid>f1092e4d-a5f6-4107-9878-6eae84c46e13</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button[2]/span/mat-icon</value>
       <webElementGuid>70513b3a-4cc6-47f2-873b-e61e5633ec0a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//mat-icon[(text() = 'chevron_right' or . = 'chevron_right')]</value>
-      <webElementGuid>f5570981-428a-4b1f-8dd0-53bcc475d6d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

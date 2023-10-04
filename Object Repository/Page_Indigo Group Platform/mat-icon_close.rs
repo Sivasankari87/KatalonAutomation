@@ -6,12 +6,12 @@
    <elementGuidId>2f6ec0c5-41ee-4d81-8f0d-9f5ce16b2630</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//h3[@id='mat-dialog-title-0']/button/span/mat-icon</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.mat-focus-indicator.dialog-close.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-ligature-font.mat-icon-no-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@id='mat-dialog-title-0']/button/span/mat-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>57cd2fd6-afdd-4ec8-8334-8a11e2079e99</webElementGuid>
+      <webElementGuid>87678869-f4b7-4dc1-8f69-f87372401991</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>f458864b-b716-4afd-aabf-3e8cc46b99d8</webElementGuid>
+      <webElementGuid>63b8a3ff-82cb-4d6f-acab-198fe88331c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>close dialog</value>
-      <webElementGuid>2c4c7e06-b6c6-4bfa-a827-4c06015bd427</webElementGuid>
+      <webElementGuid>ac2f897a-5c4c-4233-ad21-23cf7f575b8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color</value>
-      <webElementGuid>42332158-15b8-4583-94bf-0eb342de97d7</webElementGuid>
+      <webElementGuid>394bcff0-8ffb-4d42-800a-bb6f6661da81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>599d2693-ae20-4a62-9d18-e3bf872c10ea</webElementGuid>
+      <webElementGuid>9e486462-5a98-4245-b74c-d9801a015c4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>698af328-d98b-4bbe-8110-35f9723d5e1f</webElementGuid>
+      <webElementGuid>caff788e-5376-4434-9aec-53cfec877896</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>close</value>
-      <webElementGuid>cb10d37b-423c-48c7-81bb-0965fda23796</webElementGuid>
+      <webElementGuid>ceb3401c-6366-41b0-9795-b7b41a942167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-dialog-title-0&quot;)/button[@class=&quot;mat-focus-indicator dialog-close mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
-      <webElementGuid>126452ee-4819-4b13-b194-0e8e8baa652a</webElementGuid>
+      <webElementGuid>3dd68f26-950a-4a69-9a86-749b06fedcf6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//h3[@id='mat-dialog-title-0']/button/span/mat-icon</value>
-      <webElementGuid>2812b13d-8d4c-463b-9777-2b8386c4ef61</webElementGuid>
+      <webElementGuid>f3adcb33-42c6-4509-a779-77338083b2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='platform@indigo-group.org.uk'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>100c7a2e-fff6-48a5-b5af-19939daa3c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indigo Service Solutions Registration'])[3]/preceding::mat-icon[1]</value>
+      <webElementGuid>f3d332d5-6bd8-4709-abea-abbe0cfb9cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services Provided'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>f4093b58-029e-4e04-ac46-92474b7ac014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='close']/parent::*</value>
+      <webElementGuid>4c4de48b-d416-4cb6-bce4-fafe18b08a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/button/span/mat-icon</value>
+      <webElementGuid>b466aad5-ec49-4d2e-9b88-b3e6b621147e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'close' or . = 'close')]</value>
+      <webElementGuid>9ac76c9e-2f7d-4d91-a593-8dde515a6f01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,30 +151,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to the Indigo Group Platform'])[1]/preceding::mat-icon[1]</value>
       <webElementGuid>792507ba-f844-4b7b-84f3-cdc87ec1bcda</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='close']/parent::*</value>
-      <webElementGuid>0bc032df-5ada-4ceb-a001-6f72e3f06508</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//h3/button/span/mat-icon</value>
-      <webElementGuid>3f24f72d-d7ac-4b23-91eb-2fb5cb569637</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//mat-icon[(text() = 'close' or . = 'close')]</value>
-      <webElementGuid>6bab9ca7-e8c1-4fdb-a423-4c9f8d1c448c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

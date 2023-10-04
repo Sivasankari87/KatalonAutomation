@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-header-cell_Date Created</name>
+   <tag></tag>
+   <elementGuidId>40ae28c1-c853-4625-a464-7aed1f2e749c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-container']/content/ng-component/div/mat-drawer-container/mat-drawer-content/div/div/app-payrun-remittances-list-mobile/div/div[3]/mat-table/mat-header-row/mat-header-cell[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-header-cell.mat-header-cell.cdk-header-cell.cdk-column-dateCreated.mat-column-dateCreated.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-header-cell</value>
+      <webElementGuid>8419579f-f9a4-4803-9f00-5711cc21542b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>columnheader</value>
+      <webElementGuid>8fe27455-433f-47d7-a8cf-191bee7ce733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>1 1 35%</value>
+      <webElementGuid>803bf525-4a38-4740-8aa0-e5a383ddc231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-header-cell cdk-header-cell cdk-column-dateCreated mat-column-dateCreated ng-star-inserted</value>
+      <webElementGuid>6b03b99d-2e04-4700-8526-cb8385758060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date Created</value>
+      <webElementGuid>2f85ed51-e5fd-4c0f-8b95-bd34be6a3dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-container&quot;)/content[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-drawer-container[@class=&quot;mat-drawer-container drawer-form-container rebrand mat-drawer-container-explicit-backdrop&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/div[@class=&quot;body-content&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-payrun-remittances-list-mobile[1]/div[1]/div[@class=&quot;ng-star-inserted&quot;]/mat-table[@class=&quot;mat-table cdk-table mobile-table&quot;]/mat-header-row[@class=&quot;mat-header-row cdk-header-row ng-star-inserted&quot;]/mat-header-cell[@class=&quot;mat-header-cell cdk-header-cell cdk-column-dateCreated mat-column-dateCreated ng-star-inserted&quot;]</value>
+      <webElementGuid>841d56ac-823f-48c6-acdf-6c8c1f09be8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-container']/content/ng-component/div/mat-drawer-container/mat-drawer-content/div/div/app-payrun-remittances-list-mobile/div/div[3]/mat-table/mat-header-row/mat-header-cell[2]</value>
+      <webElementGuid>cb03d44e-733c-4cfd-a2de-bc6d4d7cbf23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload remittance'])[1]/following::mat-header-cell[2]</value>
+      <webElementGuid>954e8343-2597-4de0-8959-3ee60748dbae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indigo Group'])[1]/following::mat-header-cell[2]</value>
+      <webElementGuid>4b1ad585-5153-47f9-a622-7b834d22a050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference'])[1]/preceding::mat-header-cell[1]</value>
+      <webElementGuid>1c484f14-61f2-4d18-b06d-c154902788f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tester'])[1]/preceding::mat-header-cell[3]</value>
+      <webElementGuid>386f867f-e3d9-47ac-a543-8cf26e5809ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Date Created']/parent::*</value>
+      <webElementGuid>aa19f0f6-9ad5-4084-b7bd-949e520630ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-header-cell[2]</value>
+      <webElementGuid>e2160197-bd58-4c17-a0c9-e0d103b8451c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-header-cell[(text() = 'Date Created' or . = 'Date Created')]</value>
+      <webElementGuid>7d10796a-0892-41ff-9191-67b54554dfec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

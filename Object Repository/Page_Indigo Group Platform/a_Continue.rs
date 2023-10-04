@@ -6,12 +6,12 @@
    <elementGuidId>7cd8f349-fa4c-4c14-8a84-0f3d72a32015</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Continue')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.cc-btn.cc-dismiss</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Continue')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b52f1daa-97a2-4bf1-bdd6-06730bfadcdf</webElementGuid>
+      <webElementGuid>a807306d-a7bc-4c40-8de6-5528a25ba372</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>dismiss cookie message</value>
-      <webElementGuid>2745b17e-09e1-48e0-a292-886ec70a40de</webElementGuid>
+      <webElementGuid>e09a5b7d-0384-4cb8-9cf3-7d8bdda845e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bf9fbdd4-526c-4a9b-acaa-84f32e3989b5</webElementGuid>
+      <webElementGuid>8fd0bf2f-3a1b-4a7e-b17d-fd746ebe7555</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>6a9ac4ee-4a5c-4728-b56b-f0b75ab4aa31</webElementGuid>
+      <webElementGuid>d8c77cc6-09e7-4336-9498-2458ffc5eb5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cc-btn cc-dismiss</value>
-      <webElementGuid>496ad20e-bfbb-43f2-83a8-bff572d74421</webElementGuid>
+      <webElementGuid>416f7443-2479-453e-bd4b-6c1e6a596def</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,15 +62,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>4db674e7-6170-4a27-882a-44fd65dac602</webElementGuid>
+      <webElementGuid>070a3aa8-b3d2-4c39-b471-a12eb1e59bcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;platform-default-primary platform-default-primary-sidenav platform-default-primary-titles platform-default-primary-buttons&quot;]/div[@class=&quot;cc-window cc-banner cc-type-info cc-theme-classic cc-bottom cc-color-override-1151466599&quot;]/div[@class=&quot;cc-compliance&quot;]/a[@class=&quot;cc-btn cc-dismiss&quot;]</value>
-      <webElementGuid>333404cd-0077-49b2-a405-274697d1b75d</webElementGuid>
+      <value>/html[1]/body[@class=&quot;platform-default-primary platform-default-primary-sidenav platform-default-primary-titles platform-default-primary-buttons&quot;]/div[@class=&quot;cc-window cc-banner cc-type-info cc-theme-classic cc-bottom cc-color-override-1151466599  cc-invisible&quot;]/div[@class=&quot;cc-compliance&quot;]/a[@class=&quot;cc-btn cc-dismiss&quot;]</value>
+      <webElementGuid>d6f599ea-fb1d-43a1-bac7-a41f96f6d71c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Continue')]</value>
-      <webElementGuid>91ee6b83-ca63-4105-94f8-8d03017c1ab6</webElementGuid>
+      <webElementGuid>ea96338f-0bbf-4182-b4f3-b0108d299e73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy.'])[1]/following::a[1]</value>
-      <webElementGuid>12262143-b1d8-4e38-b210-d97c43945050</webElementGuid>
+      <webElementGuid>eb355b52-7c3e-4d58-9a85-7792045584e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/preceding::a[1]</value>
-      <webElementGuid>453cb3d6-e605-4ac5-90a3-fd0a498485cf</webElementGuid>
+      <webElementGuid>7ad7f0b7-ba33-4c12-9ad1-162a585d8ca3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Use the form below to log in to your account.'])[1]/preceding::a[1]</value>
-      <webElementGuid>a77632fd-3f01-4655-b039-2e4f3e26dfdb</webElementGuid>
+      <webElementGuid>aea418ac-2b15-4c9b-abf0-d0475bdec6ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
-      <webElementGuid>b55f73a9-dcbb-4948-aa3b-5e7bda06d1d2</webElementGuid>
+      <webElementGuid>9fef329d-71d5-4e42-8ae4-ecac017b03f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/a</value>
-      <webElementGuid>19be77e8-c886-4f47-932d-63b0a8bcaeae</webElementGuid>
+      <webElementGuid>43789aa8-11da-44c2-baf0-019ac804d49c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Continue' or . = 'Continue')]</value>
-      <webElementGuid>20f1b43e-69e8-4d45-ba48-bd853975e363</webElementGuid>
+      <webElementGuid>24d51a6d-98a5-4ee5-8fca-81b06023ac4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Resolution Centre'])[1]/preceding::a[1]</value>
-      <webElementGuid>dfa3bfe3-98ed-4bf3-96e9-6f55af4b5a3e</webElementGuid>
+      <webElementGuid>91fd7073-ee26-4e50-b806-298fef866f8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,22 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Badges'])[1]/preceding::a[2]</value>
-      <webElementGuid>ed22d503-23c0-43d3-8885-f95d731a308e</webElementGuid>
+      <webElementGuid>2248e48b-0d67-48dc-97e4-218c6bec2000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Hub'])[1]/preceding::a[1]</value>
+      <webElementGuid>c8f32bf0-c280-4d35-8004-cf788d61d919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need some help?'])[1]/preceding::a[1]</value>
+      <webElementGuid>75393c4e-11b0-4016-bcdd-22980ce043f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

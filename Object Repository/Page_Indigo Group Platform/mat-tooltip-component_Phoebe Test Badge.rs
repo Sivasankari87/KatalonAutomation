@@ -6,6 +6,10 @@
    <elementGuidId>cc1070dd-35d2-41df-b71e-ea5c5e28444d</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Phoebe Test Badge' or . = 'Phoebe Test Badge')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='cdk-overlay-0']/mat-tooltip-component</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>mat-tooltip-component.ng-star-inserted</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

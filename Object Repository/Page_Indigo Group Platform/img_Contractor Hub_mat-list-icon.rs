@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Contractor Hub_mat-list-icon</name>
+   <tag></tag>
+   <elementGuidId>b8afd2eb-fc6e-4ea4-9797-d95c5d719d66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-list-item[@id='hub_navigation_77']/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hub_navigation_77 > span.mat-list-item-content > img.mat-list-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4d6d4330-0f70-4f93-825a-ec2620c5c754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-icon</value>
+      <webElementGuid>47c177c1-25b5-4a44-88f4-0050de969ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/left-navigation/my-indigo-inactive.svg</value>
+      <webElementGuid>364c6072-53e8-46a1-9268-0ae6531bdab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hub_navigation_77&quot;)/span[@class=&quot;mat-list-item-content&quot;]/img[@class=&quot;mat-list-icon&quot;]</value>
+      <webElementGuid>a2caef5a-f5eb-4c21-937e-aae525f4650c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-list-item[@id='hub_navigation_77']/span/img</value>
+      <webElementGuid>529cba77-deaa-45c6-a902-f412a7b3227e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-list-item[9]/span/img</value>
+      <webElementGuid>40e7df59-b8a8-473a-b7ad-a24b41adb818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/left-navigation/my-indigo-inactive.svg']</value>
+      <webElementGuid>99a0d0cb-5730-4ed2-9cb7-5cf426071475</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

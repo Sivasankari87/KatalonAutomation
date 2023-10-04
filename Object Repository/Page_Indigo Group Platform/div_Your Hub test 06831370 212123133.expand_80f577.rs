@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your Hub test 06831370 212123133.expand_80f577</name>
+   <tag></tag>
+   <elementGuidId>e8c2f722-754b-40f0-a0ec-432e3766867b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-wrapper.body-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerColour']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>babcb841-6571-4b8f-99be-dcaeb2ab5ad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>a7bd377e-be20-4341-a888-ff6875a3bf8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-wrapper body-content</value>
+      <webElementGuid>47d725a7-7947-404a-b1ec-068ff5418c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your Hub£ test 06831370 212123133.expand_moreTraining Modulechevron_rightMarquee Client Portalchevron_rightMy Indigo (FRS)chevron_rightAcl Client Portalchevron_rightSupply Chain Assurancechevron_rightContractor Hubchevron_rightView Invoice Audit Historychevron_rightRegistrationschevron_rightMy Indigo chevron_rightYour Badgesto be completed4IN-SYNC Tax ServicesInformation and referral consentnew_releasesPlease read the information provided and confirm your consent for referral if happy to do so.Complete NowPhoebe Test BadgeThis is a test badge subtitlenew_releasesThis is a test badge descriptionComplete NowVAT Assessment  new_releasesVAT AssessmentComplete NowVAT Assessment  new_releasesVAT AssessmentComplete Now</value>
+      <webElementGuid>5fb82833-be46-4df3-aa28-c952183094cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;content-wrapper body-content&quot;]</value>
+      <webElementGuid>5a8d9dcc-6615-4737-8de3-13e6f05012f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerColour']/div[2]/div/div</value>
+      <webElementGuid>6007034e-96c6-4b8a-9f53-c4c7eb3b1f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Manager'])[1]/following::div[11]</value>
+      <webElementGuid>4eeb4e2d-2796-4f0f-a27c-5fe0bb9d7bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/following::div[11]</value>
+      <webElementGuid>15142b58-ad34-40c1-96cd-40cf13f2a4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>4f6a6b1f-21bf-493b-9f69-465a32e0c40c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your Hub£ test 06831370 212123133.expand_moreTraining Modulechevron_rightMarquee Client Portalchevron_rightMy Indigo (FRS)chevron_rightAcl Client Portalchevron_rightSupply Chain Assurancechevron_rightContractor Hubchevron_rightView Invoice Audit Historychevron_rightRegistrationschevron_rightMy Indigo chevron_rightYour Badgesto be completed4IN-SYNC Tax ServicesInformation and referral consentnew_releasesPlease read the information provided and confirm your consent for referral if happy to do so.Complete NowPhoebe Test BadgeThis is a test badge subtitlenew_releasesThis is a test badge descriptionComplete NowVAT Assessment  new_releasesVAT AssessmentComplete NowVAT Assessment  new_releasesVAT AssessmentComplete Now' or . = 'Your Hub£ test 06831370 212123133.expand_moreTraining Modulechevron_rightMarquee Client Portalchevron_rightMy Indigo (FRS)chevron_rightAcl Client Portalchevron_rightSupply Chain Assurancechevron_rightContractor Hubchevron_rightView Invoice Audit Historychevron_rightRegistrationschevron_rightMy Indigo chevron_rightYour Badgesto be completed4IN-SYNC Tax ServicesInformation and referral consentnew_releasesPlease read the information provided and confirm your consent for referral if happy to do so.Complete NowPhoebe Test BadgeThis is a test badge subtitlenew_releasesThis is a test badge descriptionComplete NowVAT Assessment  new_releasesVAT AssessmentComplete NowVAT Assessment  new_releasesVAT AssessmentComplete Now')]</value>
+      <webElementGuid>0d848612-aa67-4a98-951d-77cc1207731a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>9b3c0c72-1ca0-4a6d-bf62-371f390d0b86</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='headerColour']/div[2]/div/form/mat-form-field[2]/div/div/div[4]/mat-icon</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>mat-icon.mat-icon.notranslate.pointer.material-icons.mat-ligature-font.mat-icon-no-color.ng-tns-c113-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerColour']/div[2]/div/form/mat-form-field[2]/div/div/div[4]/mat-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>0ad74402-dd83-47af-aa02-95705295feef</webElementGuid>
+      <webElementGuid>50f471d9-5fb6-410c-8133-8a293bbd8734</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>508f0e21-1478-4513-9215-92b1f0d82364</webElementGuid>
+      <webElementGuid>fbb6a0a5-e915-4ea9-9412-31b46240e79f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate pointer material-icons mat-ligature-font mat-icon-no-color ng-tns-c113-2</value>
-      <webElementGuid>1bb48022-9545-412c-965e-e82494674a6f</webElementGuid>
+      <webElementGuid>311700f6-cb10-4141-9028-3c6c5aee3c24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f4922de3-9c84-4cdb-854a-04c2b21fcb33</webElementGuid>
+      <webElementGuid>bdc0e54f-aefd-443c-b952-68088e605074</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>4d7113ca-aadb-49d6-8658-85e05b793cb1</webElementGuid>
+      <webElementGuid>23b64ed4-e936-4b64-aabc-af148f8cf951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value> visibility_off</value>
-      <webElementGuid>4de911ef-2280-444a-96ec-fd1d14f9c557</webElementGuid>
+      <webElementGuid>a4584938-27c8-41af-bf76-a75563bcda99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c113-2 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label ng-star-inserted mat-form-field-should-float ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c113-2&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c113-2&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c113-2 ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate pointer material-icons mat-ligature-font mat-icon-no-color ng-tns-c113-2&quot;]</value>
-      <webElementGuid>d54e787e-5ba1-43f3-8834-122b9f664881</webElementGuid>
+      <webElementGuid>3e91a7a6-4605-4073-aefc-f986dab320d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headerColour']/div[2]/div/form/mat-form-field[2]/div/div/div[4]/mat-icon</value>
-      <webElementGuid>62ee0b61-ce88-49d5-b935-af8b94ea39d3</webElementGuid>
+      <webElementGuid>760b3693-c608-44d5-9931-cbec5a9e4a52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::mat-icon[1]</value>
-      <webElementGuid>ed2c772d-7e16-4b9e-9abd-172281f68826</webElementGuid>
+      <webElementGuid>55523cb5-2465-4298-89d7-5286cee94b65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::mat-icon[1]</value>
-      <webElementGuid>aa40cd44-8f48-48c1-95d4-fd7200aedee8</webElementGuid>
+      <webElementGuid>209a0e94-68e7-43d9-bf2c-63ebdd44defd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::mat-icon[1]</value>
-      <webElementGuid>d4beed82-63ee-4288-b86b-ca923f292cc4</webElementGuid>
+      <webElementGuid>3d3d6459-b072-4939-a641-063300bd2d33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='visibility_off']/parent::*</value>
-      <webElementGuid>c023c6a9-b27b-4118-ade2-6f236fd059cb</webElementGuid>
+      <webElementGuid>8bcf46f9-540e-4ce0-974e-349e7607444e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/mat-icon</value>
-      <webElementGuid>499ed754-c4fc-448d-803b-a91e7c2d4ceb</webElementGuid>
+      <webElementGuid>5242a439-44f5-430b-8c1f-b5c597a61ed4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-icon[(text() = ' visibility_off' or . = ' visibility_off')]</value>
-      <webElementGuid>6a0cb128-a10f-4156-9986-9e39c06a7e0f</webElementGuid>
+      <webElementGuid>93f8c856-7c6d-4007-a403-23367d2ab45e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

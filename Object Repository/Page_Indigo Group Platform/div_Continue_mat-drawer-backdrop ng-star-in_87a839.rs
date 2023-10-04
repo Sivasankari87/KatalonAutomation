@@ -6,12 +6,12 @@
    <elementGuidId>42ab8a83-5779-4c3a-a52e-cf1fffa06aeb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-sidenav-container/div</value>
+         <key>CSS</key>
+         <value>div.background.image-background</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.mat-drawer-backdrop.ng-star-inserted.mat-drawer-shown</value>
+         <key>XPATH</key>
+         <value>//div[@id='authentication-container']/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,26 +22,42 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>15e1ae39-ef88-475c-b12d-97b419d8470e</webElementGuid>
+      <webElementGuid>6b841155-7513-4d8a-9404-05144b0f45d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-drawer-backdrop ng-star-inserted mat-drawer-shown</value>
-      <webElementGuid>425d3547-fadb-432a-aed2-82d08c964ff4</webElementGuid>
+      <value>background image-background</value>
+      <webElementGuid>3ca43280-e2f4-4c8d-b6d7-0b463c5bf20b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;platform-teal platform-teal-sidenav platform-teal-titles platform-black-buttons&quot;]/app-root[1]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container mat-drawer-transition mat-drawer-container-has-open&quot;]/div[@class=&quot;mat-drawer-backdrop ng-star-inserted mat-drawer-shown&quot;]</value>
-      <webElementGuid>32337c1e-b7e7-4999-a73e-5aa6c30fbb5b</webElementGuid>
+      <value>id(&quot;authentication-container&quot;)/div[@class=&quot;background image-background&quot;]</value>
+      <webElementGuid>4368c2a3-968d-4965-ab00-8560ce1e882a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authentication-container']/div[2]</value>
+      <webElementGuid>2db7751b-ac8b-4468-94f6-5411226bb34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-authentication-container/div/div[2]</value>
+      <webElementGuid>fdf5885d-3b81-4b5a-8f2b-427123fd1cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>

@@ -6,12 +6,12 @@
    <elementGuidId>4554925d-88ab-41b5-8450-40a2b7c276b4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='homepage_icon_70']/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#homepage_icon_70 > img.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='homepage_icon_70']/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>f491c792-92e3-4fff-9227-91a77cb6867f</webElementGuid>
+      <webElementGuid>3774d008-0e2e-4ae6-955b-f43bd1d55ef0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>assets/hub/navigation/services/supply-chain.svg</value>
-      <webElementGuid>117e460e-8efa-4f04-8d87-8afa2900d9b3</webElementGuid>
+      <webElementGuid>7e4acf64-292e-4584-b54e-24e71f5ca818</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-star-inserted</value>
-      <webElementGuid>9d2447e1-56af-4816-ae12-3b6f9a5c6826</webElementGuid>
+      <webElementGuid>32e4ff69-1816-448b-afd5-d1e45b8ff9be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;content-wrapper body-content&quot;]/app-homepage-service-list[@class=&quot;homepage-service&quot;]/div[@class=&quot;service-container&quot;]/div[@class=&quot;service-flex&quot;]/div[@class=&quot;section-container&quot;]/div[1]/div[@id=&quot;homepage-services&quot;]/div[@class=&quot;apps-container enabled&quot;]/div[@id=&quot;homepage_icon_70&quot;]/img[@class=&quot;ng-star-inserted&quot;]</value>
-      <webElementGuid>7f885d4a-0f75-47f9-b2e2-00f5819f7c86</webElementGuid>
+      <value>id(&quot;homepage_icon_70&quot;)/img[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>223baa2a-827e-433a-87fb-af615ad0f225</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='homepage_icon_70']/img</value>
-      <webElementGuid>1f14859c-c420-46f3-8e1b-d932aef9ec28</webElementGuid>
+      <webElementGuid>832e8591-217c-4274-807e-0c256fd41e82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/img</value>
-      <webElementGuid>116615f0-80d0-4086-b85f-39f86a16c0e3</webElementGuid>
+      <webElementGuid>1b8b1b4b-5046-4f11-8eef-4c6a3fc15824</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'assets/hub/navigation/services/supply-chain.svg']</value>
-      <webElementGuid>2744e26a-fb8c-4377-ba52-876b67f5fab5</webElementGuid>
+      <webElementGuid>b544477c-e577-4948-a7d7-2a9be379694c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

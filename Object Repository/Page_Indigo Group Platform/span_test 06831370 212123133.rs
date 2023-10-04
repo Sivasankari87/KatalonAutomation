@@ -6,12 +6,12 @@
    <elementGuidId>59bdd8fc-b624-4614-9a1b-dcddc8afd34e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='topNav']/div[3]/div/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.selected-organisation-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topNav']/div[3]/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>616e8ceb-8d81-47f7-a1cc-0e276a3c79c6</webElementGuid>
+      <webElementGuid>279cae0b-97bb-4c01-8bbb-10bd387e2419</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selected-organisation-name</value>
-      <webElementGuid>b50511e4-d9ea-463a-8dd5-a9f34a38a3a8</webElementGuid>
+      <webElementGuid>aa5f58db-fb77-42f5-9202-e6ee8189700c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value>£ test 06831370 212123133.</value>
-      <webElementGuid>ddf81a36-9057-47a6-888f-85bcf37da1a9</webElementGuid>
+      <webElementGuid>914d06dc-aea2-4e51-9ccb-d178f20e608a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headerColour&quot;)/div[2]/div[@class=&quot;content&quot;]/app-homepage-header[1]/div[@id=&quot;topNav&quot;]/div[@class=&quot;organisation-selector&quot;]/div[@class=&quot;selected-organisation brand-text ng-star-inserted&quot;]/span[@class=&quot;selected-organisation-name&quot;]</value>
-      <webElementGuid>46457436-f00a-4492-9d2b-950b3f9c505d</webElementGuid>
+      <value>id(&quot;topNav&quot;)/div[@class=&quot;organisation-selector&quot;]/div[@class=&quot;selected-organisation brand-text ng-star-inserted&quot;]/span[@class=&quot;selected-organisation-name&quot;]</value>
+      <webElementGuid>53350154-3d0e-44dd-a73d-9921b9ddfb76</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='topNav']/div[3]/div/span</value>
-      <webElementGuid>73e371c5-5110-4501-94a6-3cb69d2f249e</webElementGuid>
+      <webElementGuid>8c6e3668-e7dd-4e25-94b9-c9c6a314fa3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Hub'])[1]/following::span[1]</value>
-      <webElementGuid>90af4a11-e61d-45b2-bf3f-4e408a5446f9</webElementGuid>
+      <webElementGuid>e1c75c9e-14ed-4402-9731-1ca3cb879917</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Manager'])[1]/following::span[1]</value>
-      <webElementGuid>128b97b5-c59c-4517-8633-557d2b70af24</webElementGuid>
+      <webElementGuid>d0a5240e-25a5-4280-be3c-449959a3f40a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::span[1]</value>
-      <webElementGuid>c5f42a6d-eab3-4a8b-81c5-36098430326c</webElementGuid>
+      <webElementGuid>f4072cc6-3eae-4049-8509-b59db08b42bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Module'])[2]/preceding::span[1]</value>
-      <webElementGuid>edc3b7c4-e11e-4679-8796-e5e0d23c1944</webElementGuid>
+      <webElementGuid>a243375e-5cb9-4465-9ec2-72f9d50199a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='£ test 06831370 212123133.']/parent::*</value>
-      <webElementGuid>77d75019-d61c-41dc-936a-8cee6e5c1108</webElementGuid>
+      <webElementGuid>69bd0ca0-832a-4529-8aa0-80d59bec969a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/span</value>
-      <webElementGuid>8a5f7d06-43aa-467a-8563-cb4abc234bc7</webElementGuid>
+      <webElementGuid>0fec0fd0-1b08-4eeb-8ab7-2e29f7041f58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '£ test 06831370 212123133.' or . = '£ test 06831370 212123133.')]</value>
-      <webElementGuid>26150463-811d-4c13-ac80-088f84d8459a</webElementGuid>
+      <webElementGuid>8961f091-428f-4c8e-95b8-06b5c8915a83</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

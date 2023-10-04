@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Current AssessmentQueried</name>
+   <tag></tag>
+   <elementGuidId>8d185495-57c5-4bb6-9931-4d062906f53c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-details</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content-wrapper']/ng-component/div/div/app-statistics-card/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd1478bc-02a9-435c-9373-392a4c16f365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-details</value>
+      <webElementGuid>d41db9c4-95e5-4a8b-93c6-2977d85dd307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Current AssessmentQueried</value>
+      <webElementGuid>215f84a0-f419-4df4-94d3-dc17c1f8ad36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column flex-wrap mx-sm-5 mx-1 ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column flex-wrap ng-star-inserted&quot;]/app-statistics-card[@class=&quot;col-12 col-sm-9 col-lg-6 ps-2 ps-sm-0 pt-md-4 pt-3 ps-0 pe-2&quot;]/div[@class=&quot;card d-flex flex-row justify-content-between pointer&quot;]/div[@class=&quot;card-details&quot;]</value>
+      <webElementGuid>16a91f77-f496-45d9-abaf-a4b79e33fd95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/ng-component/div/div/app-statistics-card/div/div</value>
+      <webElementGuid>1874e333-a94b-488d-84de-afe8d0465854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welsh'])[1]/following::div[5]</value>
+      <webElementGuid>b92ebd04-5a6b-4806-9b67-118dc2d4f741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urdu'])[1]/following::div[6]</value>
+      <webElementGuid>8ff1434a-42c5-446f-9fbe-838af5cc4084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/preceding::div[5]</value>
+      <webElementGuid>ed68067c-5e9d-4e76-9dac-18e8c76f8bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-statistics-card/div/div</value>
+      <webElementGuid>be385688-25fd-41da-962e-85b5e6cfd0e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Current AssessmentQueried' or . = 'Current AssessmentQueried')]</value>
+      <webElementGuid>28c23e53-e58a-4250-a528-56dcf5aed156</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
