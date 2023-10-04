@@ -27,3 +27,5 @@ WebUI.click(findTestObject('Object Repository/Page_Driver Portal - Gatsby/button
 
 WebUI.delay(0)
 
+WebUI.delay(0)
+
