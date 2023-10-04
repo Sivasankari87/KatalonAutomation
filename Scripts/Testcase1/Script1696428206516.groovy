@@ -23,6 +23,8 @@ WebUI.navigateToUrl('https://test.gatsby-driver.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Driver Portal - Gatsby/a_Forgot your password'))
 
+WebUI.delay(0)
+
 WebUI.click(findTestObject('Object Repository/Page_Driver Portal - Gatsby/button_Cancel'))
 
 WebUI.delay(0)
