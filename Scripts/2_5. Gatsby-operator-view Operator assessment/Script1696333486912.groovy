@@ -17,3 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://test.gatsby-operator.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Operator Portal - Gatsby/input_Email Address_Email Address'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Operator Portal - Gatsby/input_Email Address_Email Address'), 'sankariselvamuma+5@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Operator Portal - Gatsby/input_Forgot your password_Password'), 
+    'p4y+y39Ir5Pc2g9xt3QkeQ==')
+
+WebUI.click(findTestObject('Object Repository/Page_Operator Portal - Gatsby/button_Sign in'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Operator Portal - Gatsby/input_Forgot your password_Password'), 
+    'p4y+y39Ir5Pc2g9xt3QkeQ==')
+
+WebUI.click(findTestObject('Object Repository/Page_Operator Portal - Gatsby/button_Sign in'))
+
+WebUI.click(findTestObject('Object Repository/Page_Operator Portal - Gatsby/div_Sign In            Welcome to Gatsby, t_f49f8d'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Operator Portal - Gatsby/input_Forgot your password_Password'), 
+    'sTvX+8wsmBdseydNaJc30A==')
+
+WebUI.click(findTestObject('Object Repository/Page_Operator Portal - Gatsby/button_Sign in'))
+
+WebUI.closeBrowser()
+

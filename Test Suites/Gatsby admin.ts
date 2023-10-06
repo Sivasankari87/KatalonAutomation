@@ -15,7 +15,7 @@
       <guid>e3e83fa6-6b7c-4b57-a592-403167209344</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/2_1. Gatsby- Admin-View Driver assessment</testCaseId>
+      <testCaseId>Test Cases/1_12. Indigo_remittance_mobile view</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
