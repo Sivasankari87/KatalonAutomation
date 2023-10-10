@@ -6,12 +6,12 @@
    <elementGuidId>11840eea-d55b-4912-ae80-3536b5db366f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='homepage_icon_70']/div/div[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#homepage_icon_70 > div > div.hub-product-text.brand-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Acl Client Portal'])[2]/following::div[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

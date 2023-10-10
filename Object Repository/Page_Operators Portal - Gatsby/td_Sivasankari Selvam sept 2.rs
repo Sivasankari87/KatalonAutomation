@@ -6,12 +6,11 @@
    <elementGuidId>fc996489-7161-4cc2-bfb3-389888eae642</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='main-content-wrapper']/ng-component/div[2]/div/table/tbody/tr[10]/td[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sivadriver Sep1'])[1]/following::td[6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

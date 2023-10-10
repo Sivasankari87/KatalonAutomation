@@ -6,12 +6,12 @@
    <elementGuidId>6feca4a3-2f44-4d73-b0b9-1e84c57dd483</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='navLeft_Contractors']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#navLeft_Contractors</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/mat-list-item/span/span[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

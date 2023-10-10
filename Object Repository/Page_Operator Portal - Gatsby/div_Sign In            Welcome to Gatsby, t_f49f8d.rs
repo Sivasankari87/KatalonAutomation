@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('/html[1]/body[1]/div[@class=', '&quot;', 'background', '&quot;', ']')])[1]/following::div[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('We can', &quot;'&quot;, 't sign you in')])[1]/following::div[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
