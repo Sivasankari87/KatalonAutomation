@@ -30,6 +30,8 @@ WebUI.click(findTestObject('Object Repository/Page_Admin Portal - Gatsby/button_
 
 WebUI.click(findTestObject('Object Repository/Page_Admin Portal - Gatsby/button_Select'))
 
+WebUI.delay(1)
+
 WebUI.click(findTestObject('Object Repository/Page_Admin Portal - Gatsby/p_Resolutions'))
 
 WebUI.click(findTestObject('Object Repository/Page_Admin Portal - Gatsby/a_In Progress'))

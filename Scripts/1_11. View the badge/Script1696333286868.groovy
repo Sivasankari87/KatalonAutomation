@@ -32,6 +32,8 @@ WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/a_Conti
 
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/img'))
 
+WebUI.delay(1)
+
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/img'))
 
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/img'))
@@ -45,6 +47,8 @@ WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/span_Co
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/span_Get started'))
 
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/span_Complete Now'))
+
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/mat-icon_close'))
 

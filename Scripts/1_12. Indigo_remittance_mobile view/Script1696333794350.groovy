@@ -34,6 +34,8 @@ WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/button_
 
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/mat-icon_expand_more'))
 
+WebUI.delay(1)
+
 WebUI.setText(findTestObject('Object Repository/Page_Indigo Group Platform/input_test 06831370 212123133_mat-input-2'), 
     'indigo group')
 
