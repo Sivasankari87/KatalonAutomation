@@ -24,6 +24,8 @@ WebUI.navigateToUrl('https://www.tig-test.com/auth/login?return=%2Fauth%2Fhub')
 WebUI.setText(findTestObject('Object Repository/Page_Indigo Group Platform/input_Use the form below to log in to your _c66cd7'), 
     'sivasankari.s@optisolbusiness.com')
 
+WebUI.takeAreaScreenshotAsCheckpoint('Checkpoint7', null)
+
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Indigo Group Platform/input_Email Address_mat-input-1'), 'sTvX+8wsmBdseydNaJc30A==')
 
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/span_LOG IN'))

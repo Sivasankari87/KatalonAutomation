@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
+WebUI.takeAreaScreenshotAsCheckpoint('Checkpoint3', null)
+
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/body_CURA Healthcare                       _fb9a78'))

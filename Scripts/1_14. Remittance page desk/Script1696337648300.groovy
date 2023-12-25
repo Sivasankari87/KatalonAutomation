@@ -27,6 +27,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.tig-test.com/auth/login?return=%2Fauth%2Fhub')
 
+WebUI.takeAreaScreenshotAsCheckpoint('Checkpoint6', null)
+
 WebUI.setText(findTestObject('Object Repository/Page_Indigo Group Platform/input_Use the form below to log in to your _c66cd7'), 
     'sivasankari.s@optisolbusiness.com')
 

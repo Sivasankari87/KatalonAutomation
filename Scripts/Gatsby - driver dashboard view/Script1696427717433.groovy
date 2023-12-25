@@ -26,6 +26,8 @@ WebUI.setText(findTestObject('Object Repository/Page_Driver Portal - Gatsby/inpu
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Driver Portal - Gatsby/input_Forgot your password_Password'), 
     'p4y+y39Ir5Pc2g9xt3QkeQ==')
 
+WebUI.takeAreaScreenshotAsCheckpoint('Checkpoint2', null)
+
 WebUI.click(findTestObject('Object Repository/Page_Driver Portal - Gatsby/button_Sign in'))
 
 WebUI.click(findTestObject('Object Repository/Page_Drivers Portal - Gatsby/div_Current AssessmentQueried'))

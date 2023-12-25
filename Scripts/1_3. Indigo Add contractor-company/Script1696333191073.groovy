@@ -34,6 +34,8 @@ WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/a_Contr
 
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/span_add Subcontractor'))
 
+WebUI.takeAreaScreenshotAsCheckpoint('Checkpoint4', null)
+
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/div_A Ltd or an LLP company who is'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Indigo Group Platform/input_Check Companies House_mat-input-3'), '54335544')

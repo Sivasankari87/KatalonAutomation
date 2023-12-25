@@ -40,6 +40,8 @@ WebUI.click(findTestObject('Object Repository/Page_Admin Portal - Gatsby/td_2909
 
 WebUI.click(findTestObject('Object Repository/Page_Admin Portal - Gatsby/button_Engagement'))
 
+WebUI.takeAreaScreenshotAsCheckpoint('Checkpoint1', null)
+
 WebUI.click(findTestObject('Object Repository/Page_Admin Portal - Gatsby/button_Query this answer'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Admin Portal - Gatsby/textarea_Your query_form-control'), 'Test')

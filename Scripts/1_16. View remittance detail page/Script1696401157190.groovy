@@ -26,6 +26,8 @@ WebUI.setText(findTestObject('Object Repository/Page_Indigo Group Platform/input
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Indigo Group Platform/input_Email Address_mat-input-1'), 'sTvX+8wsmBdseydNaJc30A==')
 
+WebUI.takeAreaScreenshotAsCheckpoint('Checkpoint7', null)
+
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/mat-icon_visibility_off'))
 
 WebUI.click(findTestObject('Object Repository/Page_Indigo Group Platform/span_LOG IN'))

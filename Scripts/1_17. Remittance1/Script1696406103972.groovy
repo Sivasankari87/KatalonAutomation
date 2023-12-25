@@ -25,6 +25,8 @@ WebUI.openBrowser('')
 
 WebUI.closeBrowser()
 
+WebUI.takeScreenshotAsCheckpoint('Checkpoint8')
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.tig-test.com/auth/login?return=%2Fauth%2Fhub')
